@@ -11,9 +11,9 @@
 
 ---
 
-[![Tom's Github Stats](https://github-readme-stats.vercel.app/api?username=iamtomhewitt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Tom's Github Stats](https://github-readme-stats.vercel.app/api?username=iamtomhewitt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtomhewitt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtomhewitt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://iamtomhewitt.github.io/website
