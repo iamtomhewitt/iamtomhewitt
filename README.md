@@ -7,11 +7,14 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br>
 
 ---
 
-[![Tom's Github Stats](https://github-readme-stats.vercel.app/api?username=iamtomhewitt)](https://github.com/anuraghazra/github-readme-stats)
+[![Tom's Github Stats](https://github-readme-stats.vercel.app/api?username=iamtomhewitt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtomhewitt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [website]: https://iamtomhewitt.github.io/website
 [youtube]: https://www.youtube.com/channel/UCKP2LhsWT2UdXfUgY_yb8iw?view_as=subscriber
