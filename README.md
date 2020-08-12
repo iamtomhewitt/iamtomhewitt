@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi, I'm Tom! 👋
+---
 
-<!--
-**iamtomhewitt/iamtomhewitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Find me here:
 
-Here are some ideas to get you started:
+[<img align="left" alt="My website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+---
+
+[![Tom's Github Stats](https://github-readme-stats.vercel.app/api?username=iamtomhewitt)](https://github.com/anuraghazra/github-readme-stats)
+
+[website]: https://iamtomhewitt.github.io/website
+[youtube]: https://www.youtube.com/channel/UCKP2LhsWT2UdXfUgY_yb8iw?view_as=subscriber
+[linkedin]: https://www.linkedin.com/in/thomas-hewitt-ab7724a8/
+[instagram]: http://instagram.com/iamtomhewitt/
