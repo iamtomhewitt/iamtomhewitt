@@ -11,6 +11,12 @@
 
 <p>&nbsp;&nbsp;</p>
 
+<p align="center">
+	<img src="https://badges.pufler.dev/repos/iamtomhewitt" />
+	<img src="https://badges.pufler.dev/commits/yearly/iamtomhewitt" />
+</p>
+
+<p>&nbsp;&nbsp;</p>
 
 <div align="center">
     <img align=center src="https://github-readme-stats.vercel.app/api?username=iamtomhewitt&hide_border=true"/>
