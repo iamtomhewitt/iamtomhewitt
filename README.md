@@ -9,7 +9,7 @@
 	<a href="https://www.linkedin.com/in/thomas-hewitt-ab7724a8/"><img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;
 </div>
 
-<p>&nbsp;&nbsp;</p>
+<!-- <p>&nbsp;&nbsp;</p>
 
 <p align="center">
 	<img src="https://badges.pufler.dev/repos/iamtomhewitt" />
@@ -18,4 +18,10 @@
 
 <div align="center">
     <img align=center src="https://github-readme-stats.vercel.app/api?username=iamtomhewitt&hide_border=true"/>
-<div>
+<div> -->
+
+
+<hr></hr>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
