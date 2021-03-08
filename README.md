@@ -20,7 +20,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
 **I'm an Early 🐤** 
 
