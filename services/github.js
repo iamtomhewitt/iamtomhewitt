@@ -7,11 +7,14 @@ const headers = {
 }
 
 const getRepos = async () => {
+  console.log('Getting repos')
   const json = await fetch('https://api.github.com/users/iamtomhewitt/repos?sort=updated', { headers }).then(r => r.json());
   repos = json;
+  console.log('Finished getting repos')
 }
 
 const getLastUpdatedRepos = () => {
+  console.log('Getting last updated repos')
   repos.sort((a, b) => b.updated_at - a.updated_at)
   const slicedRepos = repos.slice(0, 5);
 
@@ -20,6 +23,8 @@ const getLastUpdatedRepos = () => {
     lastUpdated: toFriendlyDate(data.updated_at),
     description: data.description
   })
+
+  console.log('Finished getting last updated repos')
 
   return {
     lastUpdatedRepos: {
@@ -33,12 +38,15 @@ const getLastUpdatedRepos = () => {
 }
 
 const getLatestReleases = async () => {
+  console.log('Getting latest releases from repos')
   let releases = []
 
   repos.sort((a, b) => b.updated_at - a.updated_at)
 
   for (const repo of repos) {
     const data = await fetch(`https://api.github.com/repos/iamtomhewitt/${repo.name}/releases`, { headers }).then(r => r.json());
+
+    console.log('Getting release for repo', repo.name)
 
     if (data.length > 0) {
       releases.push({
@@ -48,9 +56,13 @@ const getLatestReleases = async () => {
         version: data[0].name
       });
     }
+
+    console.log('Finished getting release for repo', repo.name)
   }
 
   releases.sort((a, b) => b.publishedAt - a.publishedAt)
+
+  console.log('Finished getting latest releases from repos')
 
   return {
     latestReleases: {

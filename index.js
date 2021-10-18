@@ -21,10 +21,12 @@ const DATA = {
 };
 
 async function generateReadMe() {
+  console.log('Generating README')
   fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err;
     const output = Mustache.render(data.toString(), DATA);
     fs.writeFileSync('README.md', output);
+    console.log('README generated')
   });
 }
 
