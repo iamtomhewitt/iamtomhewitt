@@ -15,6 +15,7 @@
 	},
 	"homepage": "https://github.com/iamtomhewitt/iamtomhewitt#readme",
 	"dependencies": {
+		"dotenv": "^10.0.0",
 		"github-releaser": "^1.5.1",
 		"mustache": "^4.2.0",
 		"node-fetch": "^2.6.1"
