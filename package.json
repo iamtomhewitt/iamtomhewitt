@@ -1,0 +1,23 @@
+{
+	"name": "iamtomhewitt",
+	"version": "1.0.0",
+	"description": "My Github README",
+	"main": "index.js",
+	"scripts": {
+		"release": "github-releaser"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/iamtomhewitt/iamtomhewitt.git"
+	},
+	"bugs": {
+		"url": "https://github.com/iamtomhewitt/iamtomhewitt/issues"
+	},
+	"homepage": "https://github.com/iamtomhewitt/iamtomhewitt#readme",
+	"dependencies": {
+		"dotenv": "^10.0.0",
+		"github-releaser": "^1.5.1",
+		"mustache": "^4.2.0",
+		"node-fetch": "^2.6.1"
+	}
+}
