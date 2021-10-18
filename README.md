@@ -1,5 +1,27 @@
-# Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Tom
+<div align='center'>
+  <h1>Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
 
+<div align='center'>
+    <p>I'm Tom, a software developer at William Hill. I mainly work with the following:</p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+	<br></br>
+    <p>But I also work with:</p>
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+</div>
+
+<br/>
+
+<div align='center'>
 ### Recently Updated Repos
 
 | Name | Description | Updated At |
@@ -18,8 +40,7 @@
 | [vr-pacman 2.15.0](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;vr-pacman&#x2F;releases&#x2F;tag&#x2F;2.15.0) | Mon, Sep 6, 10:01 PM | 
 | [jet-dash-vr 5.4.1](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;jet-dash-vr&#x2F;releases&#x2F;tag&#x2F;5.4.1) | Sat, Jul 10, 10:15 PM | 
 | [github-releaser 1.5.1](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;github-releaser&#x2F;releases&#x2F;tag&#x2F;1.5.1) | Tue, Mar 2, 9:20 PM | 
-
-<br/>
+</div>
 
 <div align='center'>
   <img src="https://github.com/iamtomhewitt/iamtomhewitt/actions/workflows/update-stats.yml/badge.svg" />
@@ -45,7 +66,7 @@
 <p/>
 
 <div align='center'>
-This README was last generated at: <b>Mon, Oct 18, 5:00 PM</b>
+This README was last generated at: <b>Mon, Oct 18, 9:34 PM</b>
 <br/>
-And is generated every ! TODO
+And is generated every <b>6 hours</b>!
 </div>
