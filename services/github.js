@@ -15,7 +15,6 @@ const getRepos = async () => {
 
 const getLastUpdatedRepos = () => {
   console.log('Getting last updated repos')
-  repos.sort((a, b) => b.updated_at - a.updated_at)
   const slicedRepos = repos.slice(0, 5);
 
   const build = (data) => ({
