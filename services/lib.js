@@ -5,6 +5,7 @@ const toFriendlyDate = (data) => {
     minute: 'numeric',
     month: 'short',
     weekday: 'short',
+    timeZone: 'Europe/London'
   })
 }
 
