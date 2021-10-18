@@ -20,11 +20,9 @@
 | [jet-dash-vr 5.4.1](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;jet-dash-vr&#x2F;releases&#x2F;tag&#x2F;5.4.1) | Sat, Jul 10, 10:15 PM | 
 
 
-This README was last refreshed at: **Mon, Oct 18, 4:42 PM**
-And is generated every ! TODO
-
-< readme build passing badge >
-
+<div align='center'>
+  <img src="https://github.com/iamtomhewitt/iamtomhewitt/actions/workflows/update-stats.yml/badge.svg" />
+</div>
 <div align='center'>
   <a href="https://www.youtube.com/user/tomhewittification/videos?view_as=subscriber">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -38,4 +36,10 @@ And is generated every ! TODO
   <a href="https://iamtomhewitt.github.io/website/#/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
+</div>
+
+<div align='center'>
+This README was last refreshed at: <b>Mon, Oct 18, 4:57 PM</b>
+<br/>
+And is generated every ! TODO
 </div>
