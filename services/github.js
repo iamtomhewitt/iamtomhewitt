@@ -20,7 +20,8 @@ const getLastUpdatedRepos = () => {
   const build = (data) => ({
     name: data.name,
     lastUpdated: toFriendlyDate(data.updated_at),
-    description: data.description
+    description: data.description,
+    url: data.html_url
   })
 
   console.log('Finished getting last updated repos')
