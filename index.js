@@ -3,6 +3,7 @@ const Mustache = require('mustache');
 const fs = require('fs');
 
 const { getLastUpdatedRepos, getRepos, getLatestReleases } = require('./services/github');
+const { toFriendlyDate } = require('./services/lib');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
 const DATA = {
@@ -16,15 +17,7 @@ const DATA = {
     timeZoneName: 'short',
     weekday: 'long',
   }),
-  lastRefreshed: new Date().toLocaleDateString('en-GB', {
-    day: 'numeric',
-    hour: 'numeric',
-    minute: 'numeric',
-    month: 'short',
-    timeZone: 'Europe/London',
-    weekday: 'short',
-    year: 'numeric'
-  })
+  lastRefreshed: toFriendlyDate(new Date())
 };
 
 async function generateReadMe() {

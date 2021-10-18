@@ -13,25 +13,21 @@ const getRepos = async () => {
 
 const getLastUpdatedRepos = () => {
   repos.sort((a, b) => b.updated_at - a.updated_at)
-  const topThree = repos.slice(0, 3);
+  const slicedRepos = repos.slice(0, 5);
+
+  const build = (data) => ({
+    name: data.name,
+    lastUpdated: toFriendlyDate(data.updated_at),
+    description: data.description
+  })
 
   return {
     lastUpdatedRepos: {
-      first: {
-        name: topThree[0].name,
-        lastUpdated: toFriendlyDate(topThree[0].updated_at),
-        description: topThree[0].description
-      },
-      second: {
-        name: topThree[1].name,
-        lastUpdated: toFriendlyDate(topThree[1].updated_at),
-        description: topThree[1].description
-      },
-      third: {
-        name: topThree[2].name,
-        lastUpdated: toFriendlyDate(topThree[2].updated_at),
-        description: topThree[2].description
-      }
+      first: build(slicedRepos[0]),
+      second: build(slicedRepos[1]),
+      third: build(slicedRepos[2]),
+      fourth: build(slicedRepos[3]),
+      fifth: build(slicedRepos[4]),
     }
   }
 }
