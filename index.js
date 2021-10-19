@@ -1,10 +1,8 @@
 require('dotenv').config();
-const Mustache = require('mustache');
-const fs = require('fs');
 
+const { generateReadMe } = require('./services/readme');
 const { getLastUpdatedRepos, getRepos, getLatestReleases } = require('./services/github');
 const { toFriendlyDate } = require('./services/lib');
-const MUSTACHE_MAIN_DIR = './main.mustache';
 
 const DATA = {
   myName: 'Tom',
@@ -20,16 +18,6 @@ const DATA = {
   lastRefreshed: toFriendlyDate(new Date())
 };
 
-async function generateReadMe() {
-  console.log('Generating README')
-  fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
-    if (err) throw err;
-    const output = Mustache.render(data.toString(), DATA);
-    fs.writeFileSync('README.md', output);
-    console.log('README generated')
-  });
-}
-
 const run = async () => {
   await getRepos();
 
@@ -39,7 +27,7 @@ const run = async () => {
   DATA.lastUpdatedRepos = lastUpdatedRepos;
   DATA.latestReleases = latestReleases;
 
-  await generateReadMe();
+  await generateReadMe(DATA);
 }
 
 run();
