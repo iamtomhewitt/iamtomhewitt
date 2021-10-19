@@ -9,7 +9,7 @@ const headers = {
 const getRepos = async () => {
   console.log('Getting repos')
   const json = await fetch('https://api.github.com/users/iamtomhewitt/repos?sort=updated', { headers }).then(r => r.json());
-  repos = json;
+  repos = json.filter(r => r.name !== 'iamtomhewitt');
   console.log('Finished getting repos')
 }
 
