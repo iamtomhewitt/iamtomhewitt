@@ -26,6 +26,7 @@ const run = async () => {
 
   DATA.lastUpdatedRepos = lastUpdatedRepos;
   DATA.latestReleases = latestReleases;
+  DATA.spotify = `https://spotify-github-profile.vercel.app/api/view?uid=${process.env.SPOTIFY_UID}&cover_image=true&theme=natemoo-re`;
 
   await generateReadMe(DATA);
 }
