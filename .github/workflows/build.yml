@@ -30,6 +30,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SPOTIFY_UID: ${{ secrets.SPOTIFY_UID }}
+          GHOST_HUNTER_SCORES: ${{ secrets.GHOST_HUNTER_SCORES }}
+          JET_DASH_VR_SCORES: ${{ secrets.JET_DASH_VR_SCORES }}
       - name: Commit README
         uses: mikeal/publish-to-github-action@master
         env:
