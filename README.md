@@ -47,13 +47,29 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 | [home-dashboard-config-server 1.2.2](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-config-server&#x2F;releases&#x2F;tag&#x2F;1.2.2) | Mon, 11 Oct, 21:17 | 
 | [vr-pacman 2.15.0](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;vr-pacman&#x2F;releases&#x2F;tag&#x2F;2.15.0) | Mon, 6 Sep, 22:01 | 
 | [jet-dash-vr 5.4.1](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;jet-dash-vr&#x2F;releases&#x2F;tag&#x2F;5.4.1) | Sat, 10 Jul, 22:15 | 
-</div>
 
-<div align='center'>
-  <img src="https://github.com/iamtomhewitt/iamtomhewitt/actions/workflows/build.yml/badge.svg" />
+### [Ghost Hunter VR](https://play.google.com/store/apps/details?id=com.SwivelChairGames.VRPacman) Top Five Scores
+| Name | Score | Date |
+| ---- | ----------- | ---------- |
+| MT1 | 39290 | Thu, 20 May 2021, 02:20 |
+| SEBAPRO | 33620 | Thu, 14 Nov 2019, 14:34 |
+| ME | 25900 | Sat, 30 Nov 2019, 10:38 |
+| Julius | 25800 | Tue, 17 Sep 2019, 18:05 |
+| jhewitt24 | 23470 | Fri, 20 Sep 2019, 18:40 |
+
+### [Jet Dash VR](https://play.google.com/store/apps/details?id=com.BlueRobotGames.JetDashVR&hl=en_GB&gl=US) Top Five Scores
+| Name | Score | Date |
+| ---- | ----------- | ---------- |
+| Tom (The Dev) | 17883212 | Sun, 26 Apr 2020, 12:19 |
+| Tyler 2.0 | 11498186 | Sat, 25 Apr 2020, 22:44 |
+| Charlie | 1607532 | Sat, 25 Apr 2020, 22:44 |
+| MT1 | 1277859 | Wed, 10 Mar 2021, 17:18 |
+| tyler | 1035015 | Sat, 25 Apr 2020, 22:44 |
+
 </div>
 
 <p/>
+<br/>
 
 <div align='center'>
   <a href="https://www.youtube.com/user/tomhewittification/videos?view_as=subscriber">
@@ -73,7 +89,11 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 <p/>
 
 <div align='center'>
-This README was last generated on: <b>Thu, 21 Oct, 19:19</b>
+  <img src="https://github.com/iamtomhewitt/iamtomhewitt/actions/workflows/build.yml/badge.svg" />
+</div>
+
+<div align='center'>
+This README was last generated on: <b>Thu, 21 Oct, 22:18</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
