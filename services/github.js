@@ -9,7 +9,7 @@ const headers = {
 const getRepos = async () => {
   console.log('Getting repos')
   const json = await fetch('https://api.github.com/users/iamtomhewitt/repos?sort=updated', { headers }).then(r => r.json());
-  repos = json.filter(r => r.name !== 'iamtomhewitt');
+  repos = json.filter(r => r.name !== 'iamtomhewitt' && r.name !== 'sandbox');
   console.log('Finished getting repos')
 }
 
@@ -40,7 +40,6 @@ const getLastUpdatedRepos = () => {
 const getLatestReleases = async () => {
   console.log('Getting latest releases from repos')
   let releases = []
-
   repos.sort((a, b) => b.updated_at - a.updated_at)
 
   for (const repo of repos) {
@@ -50,7 +49,7 @@ const getLatestReleases = async () => {
 
     if (data.length > 0) {
       releases.push({
-        publishedAt: toFriendlyDate(data[0].published_at),
+        publishedAt: data[0].published_at,
         repoName: repo.name,
         url: data[0].html_url,
         version: data[0].name
@@ -60,7 +59,8 @@ const getLatestReleases = async () => {
     console.log('Finished getting release for repo', repo.name)
   }
 
-  releases.sort((a, b) => b.publishedAt - a.publishedAt)
+  releases.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
+  releases.map(r => r.publishedAt = toFriendlyDate(r.publishedAt))
 
   console.log('Finished getting latest releases from repos')
 
