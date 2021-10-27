@@ -33,20 +33,20 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 
 | Name | Description | Updated At |
 | ---- | ----------- | ---------- |
+| [github-releaser](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;github-releaser) | Bump version, generate changelog with issue links, commit, tag, push and create Github release, all automatically. | Wed, 27 Oct, 16:50 |
+| [sandbox](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;sandbox) | A repo for testing out git techniques, so I don&#39;t mess up my other repos. | Wed, 27 Oct, 16:39 |
 | [home-dashboard-recipe-manager](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager) | An app for managing recipes and ingredients for my home dashboard. | Sat, 23 Oct, 19:10 |
 | [home-dashboard](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard) | 🏡 A dashboard with useful information to display in my house. It runs on an Android tablet 24&#x2F;7, stuck to my fridge using magnets. | Thu, 14 Oct, 13:47 |
 | [home-dashboard-config-server](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-config-server) | A CMS for my home-dashboard. | Mon, 11 Oct, 21:17 |
-| [vr-pacman](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;vr-pacman) | First person VR Pacman, available on Google Play. Why not give it a five star review? ⭐️ | Mon, 6 Sep, 22:40 |
-| [vr-fighter-jet](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;vr-fighter-jet) | ✈ A VR module in my final year of university, that I improve and extend in my spare time. | Wed, 28 Jul, 14:45 |
 
 ### Latest Releases
 | Release | Released At |
 | ------- | ----------- |
+| [github-releaser 1.5.1](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;github-releaser&#x2F;releases&#x2F;tag&#x2F;1.5.1) | Tue, 2 Mar, 21:20 | 
+| [sandbox 2.1.23](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;sandbox&#x2F;releases&#x2F;tag&#x2F;2.1.23) | Wed, 27 Oct, 16:39 | 
 | [home-dashboard-recipe-manager 2.0.5](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager&#x2F;releases&#x2F;tag&#x2F;2.0.5) | Sat, 23 Oct, 19:08 | 
 | [home-dashboard 6.9.8](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard&#x2F;releases&#x2F;tag&#x2F;6.9.8) | Thu, 14 Oct, 13:44 | 
 | [home-dashboard-config-server 1.2.2](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-config-server&#x2F;releases&#x2F;tag&#x2F;1.2.2) | Mon, 11 Oct, 21:17 | 
-| [vr-pacman 2.15.0](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;vr-pacman&#x2F;releases&#x2F;tag&#x2F;2.15.0) | Mon, 6 Sep, 22:01 | 
-| [jet-dash-vr 5.4.1](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;jet-dash-vr&#x2F;releases&#x2F;tag&#x2F;5.4.1) | Sat, 10 Jul, 22:15 | 
 
 ### [Ghost Hunter VR](https://play.google.com/store/apps/details?id=com.SwivelChairGames.VRPacman) Top Five Scores
 | Name | Score | Date |
@@ -93,7 +93,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Wed, 27 Oct, 13:26</b>
+This README was last generated on: <b>Wed, 27 Oct, 19:19</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
