@@ -19,10 +19,10 @@ const run = async () => {
     lastUpdatedRepos,
     latestReleases,
     spotify: `https://spotify-github-profile.vercel.app/api/view?uid=${process.env.SPOTIFY_UID}&cover_image=true&theme=natemoo-re`,
-    vrPacmanScores,
-  }
+    vrPacmanScores
+  };
 
   await generateReadMe(data);
-}
+};
 
 run();

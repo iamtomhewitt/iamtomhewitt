@@ -2,10 +2,7 @@
 	"env": {
 		"commonjs": true,
 		"es6": true,
-		"node": true,
-		"mocha": true,
-		"amd": true,
-		"jest": true
+		"node": true
 	},
 	"extends": [
 		"airbnb-base"
@@ -18,23 +15,15 @@
 		"ecmaVersion": 2018
 	},
 	"rules": {
-		"max-len": [
-			"error",
-			{
-				"code": 200
-			}
-		],
-		"no-console": "warn",
+		"no-console": "off",
 		"indent": [
 			"error",
 			2
 		],
-		"global-require": "off",
-		"import/no-dynamic-require": "off",
-		"func-names": "off",
 		"no-restricted-syntax": "off",
 		"no-await-in-loop": "off",
 		"no-param-reassign": "off",
-		"radix": "off"
+		"no-return-assign": "off",
+		"comma-dangle": ["error", "never"]
 	}
 }

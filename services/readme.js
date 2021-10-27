@@ -1,16 +1,15 @@
-const Mustache = require('mustache');
+const mustache = require('mustache');
 const fs = require('fs');
-const path = require('path')
-const MUSTACHE_MAIN_DIR = '/../main.mustache';
+const path = require('path');
 
 const generateReadMe = async (DATA) => {
-  console.log('Generating README')
-  fs.readFile(path.join(__dirname, MUSTACHE_MAIN_DIR), (err, data) => {
+  console.log('Generating README');
+  fs.readFile(path.join(__dirname, '/../main.mustache'), (err, data) => {
     if (err) throw err;
-    const output = Mustache.render(data.toString(), DATA);
+    const output = mustache.render(data.toString(), DATA);
     fs.writeFileSync('README.md', output);
-    console.log('README generated')
+    console.log('README generated');
   });
-}
+};
 
-module.exports = { generateReadMe }
+module.exports = { generateReadMe };

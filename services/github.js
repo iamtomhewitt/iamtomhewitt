@@ -1,20 +1,20 @@
 const fetch = require('node-fetch');
 const { toFriendlyDate } = require('./lib');
 
-let repos = []
+let repos = [];
 const headers = {
-  'Authorization': `token ${process.env.GITHUB_TOKEN}`
-}
+  Authorization: `token ${process.env.GITHUB_TOKEN}`
+};
 
 const getRepos = async () => {
-  console.log('Getting repos')
-  const json = await fetch('https://api.github.com/users/iamtomhewitt/repos?sort=updated', { headers }).then(r => r.json());
-  repos = json.filter(r => r.name !== 'iamtomhewitt' && r.name !== 'sandbox');
-  console.log('Finished getting repos')
-}
+  console.log('Getting repos');
+  const json = await fetch('https://api.github.com/users/iamtomhewitt/repos?sort=updated', { headers }).then((r) => r.json());
+  repos = json.filter((r) => r.name !== 'iamtomhewitt' && r.name !== 'sandbox');
+  console.log('Finished getting repos');
+};
 
 const getLastUpdatedRepos = () => {
-  console.log('Getting last updated repos')
+  console.log('Getting last updated repos');
   const slicedRepos = repos.slice(0, 5);
 
   const build = (data) => ({
@@ -22,9 +22,9 @@ const getLastUpdatedRepos = () => {
     lastUpdated: toFriendlyDate(data.updated_at),
     description: data.description,
     url: data.html_url
-  })
+  });
 
-  console.log('Finished getting last updated repos')
+  console.log('Finished getting last updated repos');
 
   return {
     lastUpdatedRepos: {
@@ -32,20 +32,20 @@ const getLastUpdatedRepos = () => {
       second: build(slicedRepos[1]),
       third: build(slicedRepos[2]),
       fourth: build(slicedRepos[3]),
-      fifth: build(slicedRepos[4]),
+      fifth: build(slicedRepos[4])
     }
-  }
-}
+  };
+};
 
 const getLatestReleases = async () => {
-  console.log('Getting latest releases from repos')
-  let releases = []
-  repos.sort((a, b) => b.updated_at - a.updated_at)
+  console.log('Getting latest releases from repos');
+  const releases = [];
+  repos.sort((a, b) => b.updated_at - a.updated_at);
 
   for (const repo of repos) {
-    const data = await fetch(`https://api.github.com/repos/iamtomhewitt/${repo.name}/releases`, { headers }).then(r => r.json());
+    const data = await fetch(`https://api.github.com/repos/iamtomhewitt/${repo.name}/releases`, { headers }).then((r) => r.json());
 
-    console.log('Getting release for repo', repo.name)
+    console.log('Getting release for repo', repo.name);
 
     if (data.length > 0) {
       releases.push({
@@ -56,13 +56,13 @@ const getLatestReleases = async () => {
       });
     }
 
-    console.log('Finished getting release for repo', repo.name)
+    console.log('Finished getting release for repo', repo.name);
   }
 
-  releases.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
-  releases.map(r => r.publishedAt = toFriendlyDate(r.publishedAt))
+  releases.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+  releases.map((r) => r.publishedAt = toFriendlyDate(r.publishedAt));
 
-  console.log('Finished getting latest releases from repos')
+  console.log('Finished getting latest releases from repos');
 
   return {
     latestReleases: {
@@ -70,13 +70,13 @@ const getLatestReleases = async () => {
       second: releases[1],
       third: releases[2],
       fourth: releases[3],
-      fifth: releases[4],
+      fifth: releases[4]
     }
-  }
-}
+  };
+};
 
 module.exports = {
   getRepos,
   getLastUpdatedRepos,
   getLatestReleases
-}
+};
