@@ -33,8 +33,8 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 
 | Name | Description | Updated At |
 | ---- | ----------- | ---------- |
-| [github-releaser](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;github-releaser) | Bump version, generate changelog with issue links, commit, tag, push and create Github release, all automatically. | Wed, 27 Oct, 23:06 |
-| [home-dashboard-recipe-manager](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager) | An app for managing recipes and ingredients for my home dashboard. | Sat, 23 Oct, 19:10 |
+| [github-releaser](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;github-releaser) | Bump version, generate changelog with issue links, commit, tag, push and create Github release, all automatically. | Fri, 29 Oct, 08:48 |
+| [home-dashboard-recipe-manager](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager) | An app for managing recipes and ingredients for my home dashboard. | Fri, 29 Oct, 08:36 |
 | [home-dashboard](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard) | 🏡 A dashboard with useful information to display in my house. It runs on an Android tablet 24&#x2F;7, stuck to my fridge using magnets. | Thu, 14 Oct, 13:47 |
 | [home-dashboard-config-server](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-config-server) | A CMS for my home-dashboard. | Mon, 11 Oct, 21:17 |
 | [vr-pacman](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;vr-pacman) | First person VR Pacman, available on Google Play. Why not give it a five star review? ⭐️ | Mon, 6 Sep, 22:40 |
@@ -42,8 +42,8 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 ### Latest Releases
 | Release | Released At |
 | ------- | ----------- |
-| [github-releaser 1.6.0](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;github-releaser&#x2F;releases&#x2F;tag&#x2F;1.6.0) | Wed, 27 Oct, 23:04 | 
-| [home-dashboard-recipe-manager 2.0.5](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager&#x2F;releases&#x2F;tag&#x2F;2.0.5) | Sat, 23 Oct, 19:08 | 
+| [home-dashboard-recipe-manager 2.0.6](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager&#x2F;releases&#x2F;tag&#x2F;2.0.6) | Fri, 29 Oct, 08:35 | 
+| [github-releaser 1.6.1](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;github-releaser&#x2F;releases&#x2F;tag&#x2F;1.6.1) | Fri, 29 Oct, 08:22 | 
 | [home-dashboard 6.9.8](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard&#x2F;releases&#x2F;tag&#x2F;6.9.8) | Thu, 14 Oct, 13:44 | 
 | [home-dashboard-config-server 1.2.2](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-config-server&#x2F;releases&#x2F;tag&#x2F;1.2.2) | Mon, 11 Oct, 21:17 | 
 | [vr-pacman 2.15.0](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;vr-pacman&#x2F;releases&#x2F;tag&#x2F;2.15.0) | Mon, 6 Sep, 22:01 | 
@@ -93,7 +93,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Fri, 29 Oct, 07:20</b>
+This README was last generated on: <b>Fri, 29 Oct, 13:26</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
