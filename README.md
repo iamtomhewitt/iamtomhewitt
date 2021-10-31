@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
-	<br></br>
+    <br></br>
     <p>But I also work with:</p>
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -90,10 +90,11 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 
 <div align='center'>
   <img src="https://github.com/iamtomhewitt/iamtomhewitt/actions/workflows/build.yml/badge.svg" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=iamtomhewitt.iamtomhewitt" />
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sun, 31 Oct, 12:25</b>
+This README was last generated on: <b>Sun, 31 Oct, 17:15</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
