@@ -33,16 +33,16 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 
 | Name | Description | Updated At |
 | ---- | ----------- | ---------- |
+| [jet-dash-vr](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;jet-dash-vr) | 🚀 My Android game on Google Play that has both VR and non-VR play modes. | Sun, 28 Nov, 17:04 |
 | [home-dashboard-config-server](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-config-server) | A CMS for my home-dashboard. | Sat, 27 Nov, 14:34 |
 | [home-dashboard-recipe-manager](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager) | An app for managing recipes and ingredients for my home dashboard. | Tue, 9 Nov, 10:01 |
 | [github-releaser](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;github-releaser) | Bump version, generate changelog with issue links, commit, tag, push and create Github release, all automatically. | Sun, 31 Oct, 17:25 |
 | [home-dashboard](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard) | 🏡 A dashboard with useful information to display in my house. It runs on an Android tablet 24&#x2F;7, stuck to my fridge using magnets. | Thu, 14 Oct, 13:47 |
-| [vr-pacman](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;vr-pacman) | First person VR Pacman, available on Google Play. Why not give it a five star review? ⭐️ | Mon, 6 Sep, 22:40 |
 
 ### Latest Releases
 | Release | Released At |
 | ------- | ----------- |
-| [jet-dash-vr 5.5.0-BETA](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;jet-dash-vr&#x2F;releases&#x2F;tag&#x2F;5.5.0-BETA) | Sun, 28 Nov, 10:35 | 
+| [jet-dash-vr 5.5.0](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;jet-dash-vr&#x2F;releases&#x2F;tag&#x2F;5.5.0) | Sun, 28 Nov, 17:03 | 
 | [home-dashboard-config-server 1.2.4](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-config-server&#x2F;releases&#x2F;tag&#x2F;1.2.4) | Sat, 27 Nov, 14:03 | 
 | [home-dashboard-recipe-manager 2.2.0](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager&#x2F;releases&#x2F;tag&#x2F;2.2.0) | Tue, 9 Nov, 10:01 | 
 | [github-releaser 1.6.1](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;github-releaser&#x2F;releases&#x2F;tag&#x2F;1.6.1) | Fri, 29 Oct, 08:22 | 
@@ -94,7 +94,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sun, 28 Nov, 12:25</b>
+This README was last generated on: <b>Sun, 28 Nov, 18:19</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
