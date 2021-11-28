@@ -42,11 +42,11 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 ### Latest Releases
 | Release | Released At |
 | ------- | ----------- |
+| [jet-dash-vr 5.5.0-BETA](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;jet-dash-vr&#x2F;releases&#x2F;tag&#x2F;5.5.0-BETA) | Sun, 28 Nov, 10:35 | 
 | [home-dashboard-config-server 1.2.4](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-config-server&#x2F;releases&#x2F;tag&#x2F;1.2.4) | Sat, 27 Nov, 14:03 | 
 | [home-dashboard-recipe-manager 2.2.0](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager&#x2F;releases&#x2F;tag&#x2F;2.2.0) | Tue, 9 Nov, 10:01 | 
 | [github-releaser 1.6.1](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;github-releaser&#x2F;releases&#x2F;tag&#x2F;1.6.1) | Fri, 29 Oct, 08:22 | 
 | [home-dashboard 6.9.8](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard&#x2F;releases&#x2F;tag&#x2F;6.9.8) | Thu, 14 Oct, 13:44 | 
-| [vr-pacman 2.15.0](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;vr-pacman&#x2F;releases&#x2F;tag&#x2F;2.15.0) | Mon, 6 Sep, 22:01 | 
 
 ### [Ghost Hunter VR](https://play.google.com/store/apps/details?id=com.SwivelChairGames.VRPacman) Top Five Scores
 | Name | Score | Date |
@@ -94,7 +94,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sun, 28 Nov, 06:20</b>
+This README was last generated on: <b>Sun, 28 Nov, 12:25</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
