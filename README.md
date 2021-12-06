@@ -57,6 +57,15 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 | Julius | 25800 | Tue, 17 Sep 2019, 18:05 |
 | jhewitt24 | 23470 | Fri, 20 Sep 2019, 18:40 |
 
+### [Ghost Hunter VR](https://play.google.com/store/apps/details?id=com.SwivelChairGames.VRPacman) Most Recent Scores
+| Name | Score | Date |
+| ---- | ----------- | ---------- |
+| ERZA | 13390 | Sat, 10 Jul 2021, 18:06 |
+| R4MB0 | 7870 | Sat, 10 Jul 2021, 17:50 |
+| Cokita | 10090 | Sat, 10 Jul 2021, 05:00 |
+| pacman | 19360 | Sun, 27 Jun 2021, 05:49 |
+| MT1 | 39290 | Thu, 20 May 2021, 02:20 |
+
 ### [Jet Dash VR](https://play.google.com/store/apps/details?id=com.BlueRobotGames.JetDashVR&hl=en_GB&gl=US) Top Five Scores
 | Name | Score | Date |
 | ---- | ----------- | ---------- |
@@ -65,6 +74,15 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 | Charlie | 1607532 | Sat, 25 Apr 2020, 22:44 |
 | MT1 | 1277859 | Wed, 10 Mar 2021, 17:18 |
 | tyler | 1035015 | Sat, 25 Apr 2020, 22:44 |
+
+### [Jet Dash VR](https://play.google.com/store/apps/details?id=com.BlueRobotGames.JetDashVR&hl=en_GB&gl=US) Most Recent Scores
+| Name | Score | Date |
+| ---- | ----------- | ---------- |
+| nikidenlos | 512 | Wed, 8 Dec 2021, 19:07 |
+| dee | 19257 | Tue, 3 Aug 2021, 19:05 |
+| 1zezinho | 10358 | Sun, 13 Jun 2021, 01:37 |
+| PERO GAMER | 9449 | Fri, 26 Mar 2021, 05:27 |
+| qwerty123 | 9461 | Sat, 20 Mar 2021, 08:27 |
 
 </div>
 
@@ -94,7 +112,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Mon, 6 Dec, 18:22</b>
+This README was last generated on: <b>Mon, 6 Dec, 18:24</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
