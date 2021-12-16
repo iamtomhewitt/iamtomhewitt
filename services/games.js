@@ -26,13 +26,13 @@ const getScores = async (url, mostRecent = false) => {
   console.log('Finished getting scores');
 
   return {
-    scores: {
-      first: build(parsedData[0]),
-      second: build(parsedData[1]),
-      third: build(parsedData[2]),
-      fourth: build(parsedData[3]),
-      fifth: build(parsedData[4])
-    }
+    scores: [
+      build(parsedData[0]),
+      build(parsedData[1]),
+      build(parsedData[2]),
+      build(parsedData[3]),
+      build(parsedData[4])
+    ]
   };
 };
 

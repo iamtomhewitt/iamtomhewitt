@@ -30,59 +30,46 @@ I'm currently listening to: <br/><img src="{{spotify}}"/>
 <div align='center'>
 
 ### Recently Updated Repos
-
 | Name | Description | Updated At |
 | ---- | ----------- | ---------- |
-| [{{lastUpdatedRepos.first.name}}]({{lastUpdatedRepos.first.url}}) | {{lastUpdatedRepos.first.description}} | {{lastUpdatedRepos.first.lastUpdated}} |
-| [{{lastUpdatedRepos.second.name}}]({{lastUpdatedRepos.second.url}}) | {{lastUpdatedRepos.second.description}} | {{lastUpdatedRepos.second.lastUpdated}} |
-| [{{lastUpdatedRepos.third.name}}]({{lastUpdatedRepos.third.url}}) | {{lastUpdatedRepos.third.description}} | {{lastUpdatedRepos.third.lastUpdated}} |
-| [{{lastUpdatedRepos.fourth.name}}]({{lastUpdatedRepos.fourth.url}}) | {{lastUpdatedRepos.fourth.description}} | {{lastUpdatedRepos.fourth.lastUpdated}} |
-| [{{lastUpdatedRepos.fifth.name}}]({{lastUpdatedRepos.fifth.url}}) | {{lastUpdatedRepos.fifth.description}} | {{lastUpdatedRepos.fifth.lastUpdated}} |
+{{#lastUpdatedRepos}}
+| [{{name}}]({{url}}) | {{description}} | {{lastUpdated}} |
+{{/lastUpdatedRepos}}
 
 ### Latest Releases
 | Release | Released At |
 | ------- | ----------- |
-| [{{latestReleases.first.repoName}} {{latestReleases.first.version}}]({{latestReleases.first.url}}) | {{latestReleases.first.publishedAt}} | 
-| [{{latestReleases.second.repoName}} {{latestReleases.second.version}}]({{latestReleases.second.url}}) | {{latestReleases.second.publishedAt}} | 
-| [{{latestReleases.third.repoName}} {{latestReleases.third.version}}]({{latestReleases.third.url}}) | {{latestReleases.third.publishedAt}} | 
-| [{{latestReleases.fourth.repoName}} {{latestReleases.fourth.version}}]({{latestReleases.fourth.url}}) | {{latestReleases.fourth.publishedAt}} | 
-| [{{latestReleases.fifth.repoName}} {{latestReleases.fifth.version}}]({{latestReleases.fifth.url}}) | {{latestReleases.fifth.publishedAt}} | 
+{{#latestReleases}}
+| [{{repoName}} {{version}}]({{url}}) | {{publishedAt}} | 
+{{/latestReleases}}
 
 ### [Ghost Hunter VR](https://play.google.com/store/apps/details?id=com.SwivelChairGames.VRPacman) Top Five Scores
 | Name | Score | Date |
 | ---- | ----------- | ---------- |
-| {{vrPacmanScores.first.name}} | {{vrPacmanScores.first.score}} | {{vrPacmanScores.first.date}} |
-| {{vrPacmanScores.second.name}} | {{vrPacmanScores.second.score}} | {{vrPacmanScores.second.date}} |
-| {{vrPacmanScores.third.name}} | {{vrPacmanScores.third.score}} | {{vrPacmanScores.third.date}} |
-| {{vrPacmanScores.fourth.name}} | {{vrPacmanScores.fourth.score}} | {{vrPacmanScores.fourth.date}} |
-| {{vrPacmanScores.fifth.name}} | {{vrPacmanScores.fifth.score}} | {{vrPacmanScores.fifth.date}} |
+{{#vrPacmanScores}}
+| {{name}} | {{score}} | {{date}} |
+{{/vrPacmanScores}}
 
 ### [Ghost Hunter VR](https://play.google.com/store/apps/details?id=com.SwivelChairGames.VRPacman) Most Recent Scores
 | Name | Score | Date |
 | ---- | ----------- | ---------- |
-| {{mostRecentGhostHunterScores.first.name}} | {{mostRecentGhostHunterScores.first.score}} | {{mostRecentGhostHunterScores.first.date}} |
-| {{mostRecentGhostHunterScores.second.name}} | {{mostRecentGhostHunterScores.second.score}} | {{mostRecentGhostHunterScores.second.date}} |
-| {{mostRecentGhostHunterScores.third.name}} | {{mostRecentGhostHunterScores.third.score}} | {{mostRecentGhostHunterScores.third.date}} |
-| {{mostRecentGhostHunterScores.fourth.name}} | {{mostRecentGhostHunterScores.fourth.score}} | {{mostRecentGhostHunterScores.fourth.date}} |
-| {{mostRecentGhostHunterScores.fifth.name}} | {{mostRecentGhostHunterScores.fifth.score}} | {{mostRecentGhostHunterScores.fifth.date}} |
+{{#mostRecentGhostHunterScores}}
+| {{name}} | {{score}} | {{date}} |
+{{/mostRecentGhostHunterScores}}
 
 ### [Jet Dash VR](https://play.google.com/store/apps/details?id=com.BlueRobotGames.JetDashVR&hl=en_GB&gl=US) Top Five Scores
 | Name | Score | Date |
 | ---- | ----------- | ---------- |
-| {{jetDashVrScores.first.name}} | {{jetDashVrScores.first.score}} | {{jetDashVrScores.first.date}} |
-| {{jetDashVrScores.second.name}} | {{jetDashVrScores.second.score}} | {{jetDashVrScores.second.date}} |
-| {{jetDashVrScores.third.name}} | {{jetDashVrScores.third.score}} | {{jetDashVrScores.third.date}} |
-| {{jetDashVrScores.fourth.name}} | {{jetDashVrScores.fourth.score}} | {{jetDashVrScores.fourth.date}} |
-| {{jetDashVrScores.fifth.name}} | {{jetDashVrScores.fifth.score}} | {{jetDashVrScores.fifth.date}} |
+{{#jetDashVrScores}}
+| {{name}} | {{score}} | {{date}} |
+{{/jetDashVrScores}}
 
 ### [Jet Dash VR](https://play.google.com/store/apps/details?id=com.BlueRobotGames.JetDashVR&hl=en_GB&gl=US) Most Recent Scores
 | Name | Score | Date |
 | ---- | ----------- | ---------- |
-| {{mostRecentJetDashVrScores.first.name}} | {{mostRecentJetDashVrScores.first.score}} | {{mostRecentJetDashVrScores.first.date}} |
-| {{mostRecentJetDashVrScores.second.name}} | {{mostRecentJetDashVrScores.second.score}} | {{mostRecentJetDashVrScores.second.date}} |
-| {{mostRecentJetDashVrScores.third.name}} | {{mostRecentJetDashVrScores.third.score}} | {{mostRecentJetDashVrScores.third.date}} |
-| {{mostRecentJetDashVrScores.fourth.name}} | {{mostRecentJetDashVrScores.fourth.score}} | {{mostRecentJetDashVrScores.fourth.date}} |
-| {{mostRecentJetDashVrScores.fifth.name}} | {{mostRecentJetDashVrScores.fifth.score}} | {{mostRecentJetDashVrScores.fifth.date}} |
+{{#mostRecentJetDashVrScores}}
+| {{name}} | {{score}} | {{date}} |
+{{/mostRecentJetDashVrScores}}
 
 </div>
 

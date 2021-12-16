@@ -24,16 +24,17 @@ const getLastUpdatedRepos = () => {
     url: data.html_url
   });
 
+  slicedRepos.map(r => build(r))
   console.log('Finished getting last updated repos');
 
   return {
-    lastUpdatedRepos: {
-      first: build(slicedRepos[0]),
-      second: build(slicedRepos[1]),
-      third: build(slicedRepos[2]),
-      fourth: build(slicedRepos[3]),
-      fifth: build(slicedRepos[4])
-    }
+    lastUpdatedRepos: [
+      build(slicedRepos[0]),
+      build(slicedRepos[1]),
+      build(slicedRepos[2]),
+      build(slicedRepos[3]),
+      build(slicedRepos[4])
+    ]
   };
 };
 
@@ -65,13 +66,7 @@ const getLatestReleases = async () => {
   console.log('Finished getting latest releases from repos');
 
   return {
-    latestReleases: {
-      first: releases[0],
-      second: releases[1],
-      third: releases[2],
-      fourth: releases[3],
-      fifth: releases[4]
-    }
+    latestReleases: releases.slice(0, 5)
   };
 };
 
