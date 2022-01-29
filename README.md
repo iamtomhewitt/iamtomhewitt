@@ -78,10 +78,10 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 | Name | Score | Date |
 | ---- | ----------- | ---------- |
 | nikidenlos | 512 | Wed, 8 Dec 2021, 19:07 |
-| eli | 16237 | Sat, 4 Sep 2021, 23:33 |
 | dee | 19257 | Tue, 3 Aug 2021, 19:05 |
 | PERO GAMER | 9449 | Fri, 26 Mar 2021, 05:27 |
 | qwerty123 | 9461 | Sat, 20 Mar 2021, 08:27 |
+| JSP | 9276 | Tue, 9 Mar 2021, 22:05 |
 
 </div>
 
@@ -111,7 +111,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sat, 29 Jan, 12:24</b>
+This README was last generated on: <b>Sat, 29 Jan, 18:24</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
