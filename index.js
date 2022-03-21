@@ -8,10 +8,10 @@ const { toFriendlyDate } = require('./services/lib');
 const run = async () => {
   await getRepos();
 
-  const { jetDashVrScores } = await getJetDashVrScores();
   const { lastUpdatedRepos } = getLastUpdatedRepos();
   const { latestReleases } = await getLatestReleases();
-  const { vrPacmanScores } = await getGhostHunterScores();
+  const { jetDashVrScores } = await getJetDashVrScores();
+  const { ghostHunterScores } = await getGhostHunterScores();
   const { mostRecentJetDashVrScores } = await getMostRecentJetDashVrScores();
   const { mostRecentGhostHunterScores } = await getMostRecentGhostHunterScores();
 
@@ -21,7 +21,7 @@ const run = async () => {
     lastUpdatedRepos,
     latestReleases,
     spotify: `https://spotify-github-profile.vercel.app/api/view?uid=${process.env.SPOTIFY_UID}&cover_image=true&theme=natemoo-re`,
-    vrPacmanScores,
+    ghostHunterScores,
     mostRecentJetDashVrScores,
     mostRecentGhostHunterScores
   };

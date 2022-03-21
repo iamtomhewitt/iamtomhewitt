@@ -24,7 +24,7 @@ const getLastUpdatedRepos = () => {
     url: data.html_url
   });
 
-  slicedRepos.map(r => build(r))
+  slicedRepos.map((r) => build(r));
   console.log('Finished getting last updated repos');
 
   return {
