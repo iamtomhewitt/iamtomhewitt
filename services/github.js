@@ -8,7 +8,7 @@ const headers = {
 
 const getRepos = async () => {
   console.log('Getting repos');
-  const json = await fetch('https://api.github.com/users/iamtomhewitt/repos?sort=updated', { headers }).then((r) => r.json());
+  const json = await fetch('https://api.github.com/users/iamtomhewitt/repos?sort=pushed', { headers }).then((r) => r.json());
   repos = json.filter((r) => r.name !== 'iamtomhewitt' && r.name !== 'sandbox');
   console.log('Finished getting repos');
 };
@@ -19,13 +19,13 @@ const getLastUpdatedRepos = () => {
 
   const build = (data) => ({
     name: data.name,
-    lastUpdated: toFriendlyDate(data.updated_at),
+    lastUpdated: toFriendlyDate(data.pushed_at),
     description: data.description,
     url: data.html_url
   });
 
   slicedRepos.map((r) => build(r));
-  console.log('Finished getting last updated repos');
+  console.log('Finished getting last pushed repos');
 
   return {
     lastUpdatedRepos: [
