@@ -32,56 +32,56 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 ### Recently Updated Repos
 | Name | Description | Updated At |
 | ---- | ----------- | ---------- |
-| [website](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;website) | My portfolio &#x2F; website - made in an attempt to learn React. | Wed, 16 Feb, 16:11 |
-| [board-game-intensifier](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;board-game-intensifier) | Make board games more intense with the Who Wants To Be A Millionaire? soundboard. | Thu, 23 Dec, 11:37 |
-| [home-dashboard-recipe-manager](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager) | An app for managing recipes and ingredients for my home dashboard. | Wed, 15 Dec, 12:19 |
-| [jet-dash-vr](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;jet-dash-vr) | 🚀 My Android game on Google Play that has both VR and non-VR play modes. | Sun, 28 Nov, 17:04 |
-| [home-dashboard-config-server](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-config-server) | A CMS for my home-dashboard. | Sat, 27 Nov, 14:34 |
+| [home-dashboard](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard) | 🏡 A dashboard with useful information to display in my house. It runs on an Android tablet 24&#x2F;7, stuck to my fridge using magnets. | Tue, 10 May, 22:43 |
+| [home-dashboard-recipe-manager](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager) | An app for managing recipes and ingredients for my home dashboard. | Tue, 10 May, 21:58 |
+| [vr-pacman](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;vr-pacman) | First person VR Pacman, available on Google Play. Why not give it a five star review? ⭐️ | Fri, 6 May, 17:11 |
+| [github-releaser](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;github-releaser) | Bump version, generate changelog with issue links, commit, tag, push and create Github release, all automatically. | Tue, 12 Apr, 23:20 |
+| [board-game-intensifier](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;board-game-intensifier) | Make board games more intense with the Who Wants To Be A Millionaire? soundboard. | Thu, 31 Mar, 23:31 |
 
 ### Latest Releases
 | Release | Released At |
 | ------- | ----------- |
+| [home-dashboard-recipe-manager 2.4.0](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager&#x2F;releases&#x2F;tag&#x2F;2.4.0) | Tue, 10 May, 21:35 | 
 | [website 1.1.3](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;website&#x2F;releases&#x2F;tag&#x2F;1.1.3) | Wed, 16 Feb, 16:14 | 
 | [board-game-intensifier 1.0.1](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;board-game-intensifier&#x2F;releases&#x2F;tag&#x2F;1.0.1) | Thu, 23 Dec, 11:35 | 
-| [home-dashboard-recipe-manager 2.3.0](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager&#x2F;releases&#x2F;tag&#x2F;2.3.0) | Wed, 15 Dec, 12:19 | 
 | [jet-dash-vr 5.5.0](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;jet-dash-vr&#x2F;releases&#x2F;tag&#x2F;5.5.0) | Sun, 28 Nov, 17:03 | 
 | [home-dashboard-config-server 1.2.4](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-config-server&#x2F;releases&#x2F;tag&#x2F;1.2.4) | Sat, 27 Nov, 14:03 | 
 
 ### [Ghost Hunter VR](https://play.google.com/store/apps/details?id=com.SwivelChairGames.VRPacman) Top Five Scores
 | Name | Score | Date |
 | ---- | ----------- | ---------- |
-| MT1 | 39290 | Thu, 20 May 2021, 02:20 |
-| SEBAPRO | 33620 | Thu, 14 Nov 2019, 14:34 |
-| ME | 25900 | Sat, 30 Nov 2019, 10:38 |
-| Julius | 25800 | Tue, 17 Sep 2019, 18:05 |
-| jhewitt24 | 23470 | Fri, 20 Sep 2019, 18:40 |
+| MT1 | 39290 | Thu, 20 May 2021 |
+| SEBAPRO | 33620 | Thu, 14 Nov 2019 |
+| ME | 25900 | Sat, 30 Nov 2019 |
+| Julius | 25800 | Tue, 17 Sep 2019 |
+| jhewitt24 | 23470 | Fri, 20 Sep 2019 |
 
 ### [Ghost Hunter VR](https://play.google.com/store/apps/details?id=com.SwivelChairGames.VRPacman) Most Recent Scores
 | Name | Score | Date |
 | ---- | ----------- | ---------- |
-| qacmn | 1040 | Mon, 26 Jul 2021, 14:49 |
-| ERZA | 13390 | Sat, 10 Jul 2021, 18:06 |
-| R4MB0 | 7870 | Sat, 10 Jul 2021, 17:50 |
-| Cokita | 10090 | Sat, 10 Jul 2021, 05:00 |
-| pacman | 19360 | Sun, 27 Jun 2021, 05:49 |
+| pac man 2 | 940 | Wed, 8 Dec 2021 |
+| yo | 3930 | Wed, 8 Dec 2021 |
+| Was | 1910 | Sun, 28 Nov 2021 |
+| Arc | 1650 | Sun, 28 Nov 2021 |
+| asdf | 3490 | Sun, 28 Nov 2021 |
 
 ### [Jet Dash VR](https://play.google.com/store/apps/details?id=com.BlueRobotGames.JetDashVR&hl=en_GB&gl=US) Top Five Scores
 | Name | Score | Date |
 | ---- | ----------- | ---------- |
-| Tom (The Dev) | 17883212 | Sun, 26 Apr 2020, 12:19 |
-| Tyler 2.0 | 11498186 | Sat, 25 Apr 2020, 22:44 |
-| Charlie | 1607532 | Sat, 25 Apr 2020, 22:44 |
-| MT1 | 1277859 | Wed, 10 Mar 2021, 17:18 |
-| tyler | 1035015 | Sat, 25 Apr 2020, 22:44 |
+| Tom (The Dev) | 17883212 | Sun, 26 Apr 2020 |
+| Tyler 2.0 | 11498186 | Sat, 25 Apr 2020 |
+| Charlie | 1607532 | Sat, 25 Apr 2020 |
+| MT1 | 1277859 | Sun, 3 Oct 2021 |
+| tyler | 1035015 | Sat, 25 Apr 2020 |
 
 ### [Jet Dash VR](https://play.google.com/store/apps/details?id=com.BlueRobotGames.JetDashVR&hl=en_GB&gl=US) Most Recent Scores
 | Name | Score | Date |
 | ---- | ----------- | ---------- |
-| je chante | 29465 | Mon, 21 Jun 2021, 11:52 |
-| oui | 24467 | Mon, 21 Jun 2021, 00:41 |
-| gg | 13493 | Fri, 18 Jun 2021, 04:22 |
-| 1zezinho | 10358 | Sun, 13 Jun 2021, 01:37 |
-| 13633 | 16793 | Sat, 12 Jun 2021, 02:21 |
+| GG 1 | 17848 | Fri, 6 May 2022 |
+| FLUWHITE | 21546 | Thu, 5 May 2022 |
+| freak | 20644 | Fri, 15 Apr 2022 |
+| dnl | 10992 | Mon, 11 Apr 2022 |
+| tico | 2578 | Thu, 7 Apr 2022 |
 
 </div>
 
@@ -111,7 +111,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Mon, 21 Mar, 06:22</b>
+This README was last generated on: <b>Wed, 11 May, 15:53</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
