@@ -54,6 +54,7 @@ const getScores = async (url, mostRecent = false) => {
 };
 
 const getGhostHunterScores = async () => {
+  console.log('Getting top ghost hunter scores');
   const { scores } = await getScores(process.env.GHOST_HUNTER_SCORES);
   return {
     ghostHunterScores: scores
@@ -61,6 +62,7 @@ const getGhostHunterScores = async () => {
 };
 
 const getJetDashVrScores = async () => {
+  console.log('Getting top jest dash vr scores');
   const { scores } = await getScores(process.env.JET_DASH_VR_SCORES);
   return {
     jetDashVrScores: scores
@@ -68,6 +70,7 @@ const getJetDashVrScores = async () => {
 };
 
 const getMostRecentGhostHunterScores = async () => {
+  console.log('Getting most recent ghost hunter scores');
   const { scores } = await getScores(process.env.GHOST_HUNTER_SCORES, true);
   return {
     mostRecentGhostHunterScores: scores
@@ -75,6 +78,7 @@ const getMostRecentGhostHunterScores = async () => {
 };
 
 const getMostRecentJetDashVrScores = async () => {
+  console.log('Getting most recent jet dash vr scores');
   const { scores } = await getScores(process.env.JET_DASH_VR_SCORES, true);
   return {
     mostRecentJetDashVrScores: scores
