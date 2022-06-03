@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1>Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+  <h1>Hey! 👋🏻 </h1>
 </div>
 
 <div align='center'>
@@ -111,7 +111,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Fri, Jun 3, 11:18 PM</b>
+This README was last generated on: <b>Fri, Jun 3, 11:22 PM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
