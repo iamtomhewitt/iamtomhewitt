@@ -19,6 +19,7 @@
 	"dependencies": {
 		"dotenv": "^10.0.0",
 		"github-releaser": "^1.5.1",
+		"moment": "^2.29.3",
 		"mustache": "^4.2.0",
 		"node-fetch": "^2.6.1"
 	},
