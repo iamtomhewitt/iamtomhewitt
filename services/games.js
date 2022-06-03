@@ -37,7 +37,9 @@ const getScores = async (url, mostRecent = false) => {
   });
 
   if (mostRecent) {
+    console.log('Before', parsedData);
     parsedData.sort((a, b) => new Date(b.date) - new Date(a.date));
+    console.log('After', parsedData);
   } else {
     parsedData.sort((a, b) => b.score - a.score);
   }
