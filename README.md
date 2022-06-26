@@ -32,11 +32,11 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 ### Recently Updated Repos
 | Name | Description | Updated At |
 | ---- | ----------- | ---------- |
+| [vr-fighter-jet](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;vr-fighter-jet) | ✈ A VR module in my final year of university, that I improve and extend in my spare time. | Sun, Jun 26, 2:11 AM |
 | [bugzilla-live](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;bugzilla-live) | 🐛 An application to show bugs from Bugzilla using the provided API. Originally as a desktop tool to help avoid spreadsheets to manage bugs at work, it has now become a hobby project to try out new languages or programming techniques. | Sat, Jun 25, 4:39 PM |
 | [home-dashboard-splitwise-manager](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-splitwise-manager) | 💰 A small Node Express app for getting the owed amounts to display on my home dashboard. | Sat, Jun 25, 3:14 PM |
 | [home-dashboard-weather-manager](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-weather-manager) | ☀️A piggy back API of Darksky to get the weather for my home dashboard. | Sat, Jun 25, 3:14 PM |
 | [home-dashboard-train-manager](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-train-manager) | 🚂 A piggy back api of Huxley to get train timetables for my home dashboard. | Sat, Jun 25, 3:14 PM |
-| [github-releaser](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;github-releaser) | Bump version, generate changelog with issue links, commit, tag, push and create Github release, all automatically. | Fri, Jun 24, 11:31 PM |
 
 ### Latest Releases
 | Release | Released At |
@@ -111,7 +111,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sat, Jun 25, 7:21 PM</b>
+This README was last generated on: <b>Sun, Jun 26, 2:52 AM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
