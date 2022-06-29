@@ -1,4 +1,3 @@
-const moment = require('moment');
 const fetch = require('node-fetch');
 const { toFriendlyDateWithYearAndNoTime } = require('./lib');
 
@@ -17,19 +16,24 @@ const getScores = async (url, mostRecent = false) => {
     const { name, score, date } = scores[k];
 
     const isValidDate = (theDate) => {
-      if (!moment(theDate).isValid()) {
+      try {
+        const timestamp = Date.parse(theDate);
+        if (Number.isNaN(timestamp)) {
+          console.log('INVALID\t', theDate, timestamp);
+          return false;
+        }
+
+        if (new Date(timestamp) > Date.now()) {
+          console.log('INVALID\t', theDate, timestamp, new Date(timestamp), 'is after now');
+          return false;
+        }
+
+        console.log('VALID\t', theDate, timestamp, new Date(timestamp));
+        return true;
+      } catch (err) {
+        console.log('INVALID\t', theDate, err);
         return false;
       }
-
-      if (moment(theDate).isAfter(moment.now())) {
-        return false;
-      }
-
-      if (theDate.includes('.')) {
-        return false;
-      }
-
-      return true;
     };
 
     if (isValidDate(date)) {
@@ -42,6 +46,16 @@ const getScores = async (url, mostRecent = false) => {
   } else {
     parsedData.sort((a, b) => b.score - a.score);
   }
+
+  console.log({
+    scores: [
+      build(parsedData[0]),
+      build(parsedData[1]),
+      build(parsedData[2]),
+      build(parsedData[3]),
+      build(parsedData[4])
+    ]
+  });
 
   return {
     scores: [
