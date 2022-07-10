@@ -19,6 +19,8 @@
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 </div>
 
+
+
 <br/>
 
 <div align='center'>
@@ -100,6 +102,9 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
   </a>
   <a href="https://iamtomhewitt.github.io/website/#/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/3002268/tom">
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/3002268?style=for-the-badge&color=F47F24&label=STACKOVERFLOW" />
   </a>
 </div>
 
