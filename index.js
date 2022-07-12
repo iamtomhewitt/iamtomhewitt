@@ -4,6 +4,7 @@ const { generateReadMe } = require('./services/readme');
 const { getGhostHunterScores, getJetDashVrScores, getMostRecentJetDashVrScores, getMostRecentGhostHunterScores } = require('./services/games');
 const { getLastUpdatedRepos, getRepos, getLatestReleases } = require('./services/github');
 const { toFriendlyDate } = require('./services/lib');
+const { getReputation } = require('./services/stackoverflow');
 
 const run = async () => {
   await getRepos();
@@ -14,6 +15,7 @@ const run = async () => {
   const { ghostHunterScores } = await getGhostHunterScores();
   const { mostRecentJetDashVrScores } = await getMostRecentJetDashVrScores();
   const { mostRecentGhostHunterScores } = await getMostRecentGhostHunterScores();
+  const { reputation } = await getReputation();
 
   const data = {
     jetDashVrScores,
@@ -23,7 +25,8 @@ const run = async () => {
     spotify: `https://spotify-github-profile.vercel.app/api/view?uid=${process.env.SPOTIFY_UID}&cover_image=true&theme=natemoo-re`,
     ghostHunterScores,
     mostRecentJetDashVrScores,
-    mostRecentGhostHunterScores
+    mostRecentGhostHunterScores,
+    reputation
   };
 
   await generateReadMe(data);
