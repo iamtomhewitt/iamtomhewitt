@@ -59,11 +59,11 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 ### [Ghost Hunter VR](https://play.google.com/store/apps/details?id=com.SwivelChairGames.VRPacman) Most Recent Scores
 | Name | Score | Date |
 | ---- | ----------- | ---------- |
+| 1 | 960 | Sun, Jul 17, 2022 |
 | josesito | 4240 | Fri, Jul 15, 2022 |
 | shsjshdkis | 790 | Fri, Jul 15, 2022 |
 | THiago | 1730 | Thu, Jul 14, 2022 |
 | jjj | 2950 | Tue, Jun 28, 2022 |
-| highscore | 1850 | Tue, Jun 28, 2022 |
 
 ### [Jet Dash VR](https://play.google.com/store/apps/details?id=com.BlueRobotGames.JetDashVR&hl=en_GB&gl=US) Top Five Scores
 | Name | Score | Date |
@@ -77,11 +77,11 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 ### [Jet Dash VR](https://play.google.com/store/apps/details?id=com.BlueRobotGames.JetDashVR&hl=en_GB&gl=US) Most Recent Scores
 | Name | Score | Date |
 | ---- | ----------- | ---------- |
+| jordan | 15928 | Mon, Jul 18, 2022 |
+| jordan | 11322 | Sun, Jul 17, 2022 |
 | opa | 11456 | Fri, Jul 15, 2022 |
 | MYSTERY  | 15450 | Sat, Jul 9, 2022 |
 | MEGASUS | 24743 | Tue, Jul 5, 2022 |
-| god | 17523 | Tue, Jul 5, 2022 |
-| eee | 16502 | Tue, Jul 5, 2022 |
 
 </div>
 
@@ -114,7 +114,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sun, Jul 17, 7:21 PM</b>
+This README was last generated on: <b>Mon, Jul 18, 2:56 AM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
