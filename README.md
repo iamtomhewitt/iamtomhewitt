@@ -32,7 +32,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 ### Recently Updated Repos
 | Name | Description | Updated At |
 | ---- | ----------- | ---------- |
-| [home-dashboard-recipe-manager](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager) | An app for managing recipes and ingredients for my home dashboard. | Fri, Sep 30, 8:47 PM |
+| [home-dashboard-recipe-manager](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager) | An app for managing recipes and ingredients for my home dashboard. | Sat, Oct 1, 12:19 PM |
 | [home-dashboard-config-server](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-config-server) | A CMS for my home-dashboard. | Fri, Sep 23, 10:55 AM |
 | [home-dashboard-splitwise-manager](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-splitwise-manager) | 💰 A small Node Express app for getting the owed amounts to display on my home dashboard. | Fri, Sep 16, 10:12 PM |
 | [home-dashboard](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard) | 🏡 A dashboard with useful information to display in my house. It runs on an Android tablet 24&#x2F;7, stuck to my fridge using magnets. | Wed, Sep 14, 2:32 PM |
@@ -41,11 +41,11 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 ### Latest Releases
 | Release | Released At |
 | ------- | ----------- |
+| [home-dashboard-recipe-manager 2.4.1](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager&#x2F;releases&#x2F;tag&#x2F;2.4.1) | Sat, Oct 1, 12:20 PM | 
 | [home-dashboard-config-server 1.3.1](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-config-server&#x2F;releases&#x2F;tag&#x2F;1.3.1) | Fri, Sep 23, 10:55 AM | 
 | [home-dashboard-splitwise-manager 1.1.7](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-splitwise-manager&#x2F;releases&#x2F;tag&#x2F;1.1.7) | Fri, Sep 16, 10:12 PM | 
 | [home-dashboard 6.10.1](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard&#x2F;releases&#x2F;tag&#x2F;6.10.1) | Wed, Sep 14, 2:26 PM | 
 | [jet-dash-vr 5.5.1](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;jet-dash-vr&#x2F;releases&#x2F;tag&#x2F;5.5.1) | Thu, Jun 2, 12:26 PM | 
-| [vr-pacman 2.15.1](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;vr-pacman&#x2F;releases&#x2F;tag&#x2F;2.15.1) | Thu, Jun 2, 12:24 PM | 
 
 ### [Ghost Hunter VR](https://play.google.com/store/apps/details?id=com.SwivelChairGames.VRPacman) Top Five Scores
 | Name | Score | Date |
@@ -59,11 +59,11 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 ### [Ghost Hunter VR](https://play.google.com/store/apps/details?id=com.SwivelChairGames.VRPacman) Most Recent Scores
 | Name | Score | Date |
 | ---- | ----------- | ---------- |
+| jd USC 89 | 2480 | Sat, Oct 1, 2022 |
+| ME | 1530 | Sat, Oct 1, 2022 |
 | Artyom | 890 | Sun, Sep 18, 2022 |
 | red e blue | 3110 | Sun, Sep 18, 2022 |
 | vtr e mrc | 840 | Sun, Sep 18, 2022 |
-| Hormiga  | 2180 | Tue, Sep 6, 2022 |
-| paxcman | 4650 | Mon, Sep 5, 2022 |
 
 ### [Jet Dash VR](https://play.google.com/store/apps/details?id=com.BlueRobotGames.JetDashVR&hl=en_GB&gl=US) Top Five Scores
 | Name | Score | Date |
@@ -77,11 +77,11 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 ### [Jet Dash VR](https://play.google.com/store/apps/details?id=com.BlueRobotGames.JetDashVR&hl=en_GB&gl=US) Most Recent Scores
 | Name | Score | Date |
 | ---- | ----------- | ---------- |
+| dhfgggggvb | 4081 | Sat, Oct 1, 2022 |
 | aml | 21131 | Tue, Sep 13, 2022 |
 | vbhu | 347 | Sat, Aug 6, 2022 |
 | ...  | 116080 | Wed, Aug 3, 2022 |
 | jordan | 15928 | Mon, Jul 18, 2022 |
-| jordan | 11322 | Sun, Jul 17, 2022 |
 
 </div>
 
@@ -114,7 +114,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sat, Oct 1, 7:37 AM</b>
+This README was last generated on: <b>Sat, Oct 1, 1:40 PM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
