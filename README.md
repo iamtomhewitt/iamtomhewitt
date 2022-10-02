@@ -32,7 +32,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 ### Recently Updated Repos
 | Name | Description | Updated At |
 | ---- | ----------- | ---------- |
-| [home-dashboard-config-server](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-config-server) | A CMS for my home-dashboard. | Sun, Oct 2, 1:38 PM |
+| [home-dashboard-config-server](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-config-server) | A CMS for my home-dashboard. | Sun, Oct 2, 1:49 PM |
 | [home-dashboard-recipe-manager](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager) | An app for managing recipes and ingredients for my home dashboard. | Sat, Oct 1, 12:19 PM |
 | [home-dashboard-splitwise-manager](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-splitwise-manager) | 💰 A small Node Express app for getting the owed amounts to display on my home dashboard. | Fri, Sep 16, 10:12 PM |
 | [home-dashboard](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard) | 🏡 A dashboard with useful information to display in my house. It runs on an Android tablet 24&#x2F;7, stuck to my fridge using magnets. | Wed, Sep 14, 2:32 PM |
@@ -41,7 +41,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 ### Latest Releases
 | Release | Released At |
 | ------- | ----------- |
-| [home-dashboard-config-server 1.3.2](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-config-server&#x2F;releases&#x2F;tag&#x2F;1.3.2) | Sun, Oct 2, 12:49 PM | 
+| [home-dashboard-config-server 1.3.3](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-config-server&#x2F;releases&#x2F;tag&#x2F;1.3.3) | Sun, Oct 2, 1:49 PM | 
 | [home-dashboard-recipe-manager 2.4.1](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager&#x2F;releases&#x2F;tag&#x2F;2.4.1) | Sat, Oct 1, 12:20 PM | 
 | [home-dashboard-splitwise-manager 1.1.7](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-splitwise-manager&#x2F;releases&#x2F;tag&#x2F;1.1.7) | Fri, Sep 16, 10:12 PM | 
 | [home-dashboard 6.10.1](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard&#x2F;releases&#x2F;tag&#x2F;6.10.1) | Wed, Sep 14, 2:26 PM | 
@@ -114,7 +114,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sun, Oct 2, 1:39 PM</b>
+This README was last generated on: <b>Sun, Oct 2, 7:26 PM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
