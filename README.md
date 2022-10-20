@@ -102,7 +102,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/3002268/tom">
-    <img src="https://img.shields.io/badge/reputation-2105-green?style=for-the-badge&logo=stackoverflow" />
+    <img src="https://img.shields.io/badge/reputation-2125-green?style=for-the-badge&logo=stackoverflow" />
   </a>
 </div>
 
@@ -114,7 +114,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Thu, Oct 20, 1:49 PM</b>
+This README was last generated on: <b>Thu, Oct 20, 7:39 PM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
