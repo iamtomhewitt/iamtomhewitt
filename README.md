@@ -59,11 +59,11 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 ### [Ghost Hunter VR](https://play.google.com/store/apps/details?id=com.SwivelChairGames.VRPacman) Most Recent Scores
 | Name | Score | Date |
 | ---- | ----------- | ---------- |
+| Entiti666 | 540 | Wed, Nov 2, 2022 |
 | jamILI | 4670 | Tue, Nov 1, 2022 |
 | darien | 2220 | Fri, Oct 7, 2022 |
 | abc | 4650 | Wed, Oct 5, 2022 |
 | kejehshskw | 350 | Tue, Oct 4, 2022 |
-| kh | 550 | Tue, Oct 4, 2022 |
 
 ### [Jet Dash VR](https://play.google.com/store/apps/details?id=com.BlueRobotGames.JetDashVR&hl=en_GB&gl=US) Top Five Scores
 | Name | Score | Date |
@@ -102,7 +102,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/3002268/tom">
-    <img src="https://img.shields.io/badge/reputation-2135-green?style=for-the-badge&logo=stackoverflow" />
+    <img src="https://img.shields.io/badge/reputation-2145-green?style=for-the-badge&logo=stackoverflow" />
   </a>
 </div>
 
@@ -114,7 +114,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Wed, Nov 2, 12:43 PM</b>
+This README was last generated on: <b>Wed, Nov 2, 6:25 PM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
