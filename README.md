@@ -77,11 +77,11 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 ### [Jet Dash VR](https://play.google.com/store/apps/details?id=com.BlueRobotGames.JetDashVR&hl=en_GB&gl=US) Most Recent Scores
 | Name | Score | Date |
 | ---- | ----------- | ---------- |
+| dnl | 10992 | Fri, Nov 4, 2022 |
 | erikpro | 6459 | Wed, Oct 5, 2022 |
 | dhfgggggvb | 4081 | Sat, Oct 1, 2022 |
 | aml | 21131 | Tue, Sep 13, 2022 |
 | vbhu | 347 | Sat, Aug 6, 2022 |
-| ...  | 116080 | Wed, Aug 3, 2022 |
 
 </div>
 
@@ -114,7 +114,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Fri, Nov 4, 6:27 AM</b>
+This README was last generated on: <b>Fri, Nov 4, 12:40 PM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
