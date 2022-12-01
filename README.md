@@ -59,11 +59,11 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 ### [Ghost Hunter VR](https://play.google.com/store/apps/details?id=com.SwivelChairGames.VRPacman) Most Recent Scores
 | Name | Score | Date |
 | ---- | ----------- | ---------- |
+| z 3v cfop | 6880 | Thu, Dec 1, 2022 |
 | ghdhd | 2270 | Sun, Nov 13, 2022 |
 | Hou | 2230 | Thu, Nov 3, 2022 |
 | Entiti666 | 540 | Wed, Nov 2, 2022 |
 | jamILI | 4670 | Tue, Nov 1, 2022 |
-| darien | 2220 | Fri, Oct 7, 2022 |
 
 ### [Jet Dash VR](https://play.google.com/store/apps/details?id=com.BlueRobotGames.JetDashVR&hl=en_GB&gl=US) Top Five Scores
 | Name | Score | Date |
@@ -114,7 +114,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Thu, Dec 1, 6:22 AM</b>
+This README was last generated on: <b>Thu, Dec 1, 12:34 PM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
