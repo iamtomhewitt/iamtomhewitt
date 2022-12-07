@@ -32,11 +32,11 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 ### Recently Updated Repos
 | Name | Description | Updated At |
 | ---- | ----------- | ---------- |
+| [home-dashboard-weather-manager](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-weather-manager) | ☀️A piggy back API of Darksky to get the weather for my home dashboard. | Wed, Dec 7, 8:43 AM |
+| [github-releaser](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;github-releaser) | Bump version, generate changelog with issue links, commit, tag, push and create Github release, all automatically. | Wed, Dec 7, 7:16 AM |
+| [home-dashboard-train-manager](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-train-manager) | 🚂 A piggy back api of Huxley to get train timetables for my home dashboard. | Wed, Dec 7, 6:27 AM |
 | [website](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;website) | My portfolio &#x2F; website - made in an attempt to learn React. | Sun, Dec 4, 10:59 AM |
 | [board-game-intensifier](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;board-game-intensifier) | Make board games more intense with the Who Wants To Be A Millionaire? soundboard. | Mon, Nov 14, 9:52 AM |
-| [vr-fighter-jet](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;vr-fighter-jet) | ✈ A VR module in my final year of university, that I improve and extend in my spare time. | Fri, Nov 11, 9:54 PM |
-| [home-dashboard-recipe-manager](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager) | An app for managing recipes and ingredients for my home dashboard. | Wed, Oct 5, 10:30 PM |
-| [home-dashboard-config-server](https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-config-server) | A CMS for my home-dashboard. | Sun, Oct 2, 1:49 PM |
 
 ### Latest Releases
 | Release | Released At |
@@ -114,7 +114,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Wed, Dec 7, 6:20 AM</b>
+This README was last generated on: <b>Wed, Dec 7, 12:30 PM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
