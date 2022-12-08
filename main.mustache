@@ -30,46 +30,102 @@ I'm currently listening to: <br/><img src="{{spotify}}"/>
 <div align='center'>
 
 ### Recently Updated Repos
-| Name | Description | Updated At |
-| ---- | ----------- | ---------- |
-{{#lastUpdatedRepos}}
-| [{{name}}]({{url}}) | {{description}} | {{lastUpdated}} |
-{{/lastUpdatedRepos}}
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align:center; font-weight: bold; width:20%;">Name</td>
+    <td style="text-align:center; font-weight: bold; width:60%;">Description</td>
+    <td style="text-align:center; font-weight: bold; width:20%;">Updated At</td>
+  </tr>
+  {{#lastUpdatedRepos}}
+  <tr>
+    <td style="text-align:center;">
+      <a href="{{url}}">{{name}}</a>
+    </td>
+    <td style="text-align:center;">{{description}}</td>
+    <td style="text-align:center;">{{lastUpdated}}</td>
+  </tr>
+  {{/lastUpdatedRepos}}
+</table>
 
 ### Latest Releases
-| Release | Released At |
-| ------- | ----------- |
-{{#latestReleases}}
-| [{{repoName}} {{version}}]({{url}}) | {{publishedAt}} | 
-{{/latestReleases}}
+<table style="width: 100%;">
+   <tr>
+     <td style="text-align:center; font-weight: bold; width:40%;">Release</td>
+     <td style="text-align:center; font-weight: bold; width:60%;">Released At</td>
+   </tr>
+   {{#latestReleases}}
+   <tr>
+     <td style="text-align:center;">
+       <a href="{{url}}">{{repoName}} {{version}}</a>
+     </td>
+     <td style="text-align:center;">{{publishedAt}}</td>
+   </tr>
+   {{/latestReleases}}
+</table>
 
 ### [Ghost Hunter VR](https://play.google.com/store/apps/details?id=com.SwivelChairGames.VRPacman) Top Five Scores
-| Name | Score | Date |
-| ---- | ----------- | ---------- |
-{{#ghostHunterScores}}
-| {{name}} | {{score}} | {{date}} |
-{{/ghostHunterScores}}
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align:center; font-weight: bold; width:20%;">Name</td>
+    <td style="text-align:center; font-weight: bold; width:40%;">Score</td>
+    <td style="text-align:center; font-weight: bold; width:40%;">Date At</td>
+  </tr>
+  {{#ghostHunterScores}}
+  <tr>
+    <td style="text-align:center;">{{name}}</td>
+    <td style="text-align:center;">{{score}}</td>
+    <td style="text-align:center;">{{date}}</td>
+  </tr>
+  {{/ghostHunterScores}}
+</table>
 
 ### [Ghost Hunter VR](https://play.google.com/store/apps/details?id=com.SwivelChairGames.VRPacman) Most Recent Scores
-| Name | Score | Date |
-| ---- | ----------- | ---------- |
-{{#mostRecentGhostHunterScores}}
-| {{name}} | {{score}} | {{date}} |
-{{/mostRecentGhostHunterScores}}
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align:center; font-weight: bold; width:20%;">Name</td>
+    <td style="text-align:center; font-weight: bold; width:40%;">Score</td>
+    <td style="text-align:center; font-weight: bold; width:40%;">Date At</td>
+  </tr>
+  {{#mostRecentGhostHunterScores}}
+  <tr>
+    <td style="text-align:center;">{{name}}</td>
+    <td style="text-align:center;">{{score}}</td>
+    <td style="text-align:center;">{{date}}</td>
+  </tr>
+  {{/mostRecentGhostHunterScores}}
+</table>
 
 ### [Jet Dash VR](https://play.google.com/store/apps/details?id=com.BlueRobotGames.JetDashVR&hl=en_GB&gl=US) Top Five Scores
-| Name | Score | Date |
-| ---- | ----------- | ---------- |
-{{#jetDashVrScores}}
-| {{name}} | {{score}} | {{date}} |
-{{/jetDashVrScores}}
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align:center; font-weight: bold; width:20%;">Name</td>
+    <td style="text-align:center; font-weight: bold; width:40%;">Score</td>
+    <td style="text-align:center; font-weight: bold; width:40%;">Date At</td>
+  </tr>
+  {{#jetDashVrScores}}
+  <tr>
+    <td style="text-align:center;">{{name}}</td>
+    <td style="text-align:center;">{{score}}</td>
+    <td style="text-align:center;">{{date}}</td>
+  </tr>
+  {{/jetDashVrScores}}
+</table>
 
 ### [Jet Dash VR](https://play.google.com/store/apps/details?id=com.BlueRobotGames.JetDashVR&hl=en_GB&gl=US) Most Recent Scores
-| Name | Score | Date |
-| ---- | ----------- | ---------- |
-{{#mostRecentJetDashVrScores}}
-| {{name}} | {{score}} | {{date}} |
-{{/mostRecentJetDashVrScores}}
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align:center; font-weight: bold; width:20%;">Name</td>
+    <td style="text-align:center; font-weight: bold; width:40%;">Score</td>
+    <td style="text-align:center; font-weight: bold; width:40%;">Date At</td>
+  </tr>
+  {{#mostRecentJetDashVrScores}}
+  <tr>
+    <td style="text-align:center;">{{name}}</td>
+    <td style="text-align:center;">{{score}}</td>
+    <td style="text-align:center;">{{date}}</td>
+  </tr>
+  {{/mostRecentJetDashVrScores}}
+</table>
 
 </div>
 
