@@ -41,7 +41,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;website">website</a>
     </td>
     <td style="text-align:center;">My portfolio &#x2F; website - made in an attempt to learn React.</td>
-    <td style="text-align:center;">Fri, Dec 9, 1:22 AM</td>
+    <td style="text-align:center;">Sun, Dec 11, 5:02 AM</td>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -278,7 +278,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sun, Dec 11, 1:25 AM</b>
+This README was last generated on: <b>Sun, Dec 11, 6:19 AM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
