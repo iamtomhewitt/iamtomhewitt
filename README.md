@@ -38,6 +38,20 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
   </tr>
   <tr>
     <td style="text-align:center;">
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;github-releaser">github-releaser</a>
+    </td>
+    <td style="text-align:center;">Bump version, generate changelog with issue links, commit, tag, push and create Github release, all automatically.</td>
+    <td style="text-align:center;">Mon, Dec 12, 2:07 AM</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-weather-manager">home-dashboard-weather-manager</a>
+    </td>
+    <td style="text-align:center;">☀️A piggy back API of Darksky to get the weather for my home dashboard.</td>
+    <td style="text-align:center;">Mon, Dec 12, 1:56 AM</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-train-manager">home-dashboard-train-manager</a>
     </td>
     <td style="text-align:center;">🚂 A piggy back api of Huxley to get train timetables for my home dashboard.</td>
@@ -56,20 +70,6 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     </td>
     <td style="text-align:center;">Make board games more intense with the Who Wants To Be A Millionaire? soundboard.</td>
     <td style="text-align:center;">Thu, Dec 8, 4:22 AM</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;github-releaser">github-releaser</a>
-    </td>
-    <td style="text-align:center;">Bump version, generate changelog with issue links, commit, tag, push and create Github release, all automatically.</td>
-    <td style="text-align:center;">Wed, Dec 7, 4:30 PM</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-weather-manager">home-dashboard-weather-manager</a>
-    </td>
-    <td style="text-align:center;">☀️A piggy back API of Darksky to get the weather for my home dashboard.</td>
-    <td style="text-align:center;">Wed, Dec 7, 8:43 AM</td>
   </tr>
 </table>
 
@@ -153,6 +153,11 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     <td style="text-align:center; font-weight: bold; width:40%;">Date At</td>
   </tr>
   <tr>
+    <td style="text-align:center;">aakanNz</td>
+    <td style="text-align:center;">550</td>
+    <td style="text-align:center;">Mon, Dec 12, 2022</td>
+  </tr>
+  <tr>
     <td style="text-align:center;">z 3v cfop</td>
     <td style="text-align:center;">6880</td>
     <td style="text-align:center;">Thu, Dec 1, 2022</td>
@@ -171,11 +176,6 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     <td style="text-align:center;">Entiti666</td>
     <td style="text-align:center;">540</td>
     <td style="text-align:center;">Wed, Nov 2, 2022</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">jamILI</td>
-    <td style="text-align:center;">4670</td>
-    <td style="text-align:center;">Tue, Nov 1, 2022</td>
   </tr>
 </table>
 
@@ -278,7 +278,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Mon, Dec 12, 1:20 AM</b>
+This README was last generated on: <b>Mon, Dec 12, 6:21 AM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
