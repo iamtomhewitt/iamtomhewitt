@@ -38,6 +38,13 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
   </tr>
   <tr>
     <td style="text-align:center;">
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-train-manager">home-dashboard-train-manager</a>
+    </td>
+    <td style="text-align:center;">🚂 A piggy back api of Huxley to get train timetables for my home dashboard.</td>
+    <td style="text-align:center;">Sun, Dec 11, 8:24 PM</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;website">website</a>
     </td>
     <td style="text-align:center;">My portfolio &#x2F; website - made in an attempt to learn React.</td>
@@ -63,13 +70,6 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     </td>
     <td style="text-align:center;">☀️A piggy back API of Darksky to get the weather for my home dashboard.</td>
     <td style="text-align:center;">Wed, Dec 7, 8:43 AM</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-train-manager">home-dashboard-train-manager</a>
-    </td>
-    <td style="text-align:center;">🚂 A piggy back api of Huxley to get train timetables for my home dashboard.</td>
-    <td style="text-align:center;">Wed, Dec 7, 6:27 AM</td>
   </tr>
 </table>
 
@@ -278,7 +278,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sun, Dec 11, 6:19 PM</b>
+This README was last generated on: <b>Mon, Dec 12, 1:20 AM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
