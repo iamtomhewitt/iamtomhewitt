@@ -41,7 +41,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;board-game-intensifier">board-game-intensifier</a>
     </td>
     <td style="text-align:center;">Make board games more intense with the Who Wants To Be A Millionaire? soundboard.</td>
-    <td style="text-align:center;">Mon, Dec 12, 2:40 PM</td>
+    <td style="text-align:center;">Wed, Dec 14, 7:14 PM</td>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -278,7 +278,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Wed, Dec 14, 6:20 PM</b>
+This README was last generated on: <b>Thu, Dec 15, 1:22 AM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
