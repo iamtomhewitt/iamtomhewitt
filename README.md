@@ -221,6 +221,11 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     <td style="text-align:center; font-weight: bold; width:40%;">Date At</td>
   </tr>
   <tr>
+    <td style="text-align:center;">gg</td>
+    <td style="text-align:center;">29814</td>
+    <td style="text-align:center;">Sat, Dec 24, 2022</td>
+  </tr>
+  <tr>
     <td style="text-align:center;">E4</td>
     <td style="text-align:center;">15081</td>
     <td style="text-align:center;">Sat, Dec 24, 2022</td>
@@ -239,11 +244,6 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     <td style="text-align:center;">oi</td>
     <td style="text-align:center;">10412</td>
     <td style="text-align:center;">Sat, Dec 10, 2022</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">chris</td>
-    <td style="text-align:center;">11032</td>
-    <td style="text-align:center;">Wed, Nov 30, 2022</td>
   </tr>
 </table>
 
@@ -278,7 +278,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sat, Dec 24, 1:09 AM</b>
+This README was last generated on: <b>Sat, Dec 24, 6:18 AM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
