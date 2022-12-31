@@ -38,6 +38,20 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
   </tr>
   <tr>
     <td style="text-align:center;">
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-weather-manager">home-dashboard-weather-manager</a>
+    </td>
+    <td style="text-align:center;">☀️A piggy back API of Darksky to get the weather for my home dashboard.</td>
+    <td style="text-align:center;">Fri, Dec 30, 7:40 PM</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-train-manager">home-dashboard-train-manager</a>
+    </td>
+    <td style="text-align:center;">🚂 A piggy back api of Huxley to get train timetables for my home dashboard.</td>
+    <td style="text-align:center;">Fri, Dec 30, 7:27 PM</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;board-game-intensifier">board-game-intensifier</a>
     </td>
     <td style="text-align:center;">Make board games more intense with the Who Wants To Be A Millionaire? soundboard.</td>
@@ -49,20 +63,6 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     </td>
     <td style="text-align:center;">Bump version, generate changelog with issue links, commit, tag, push and create Github release, all automatically.</td>
     <td style="text-align:center;">Mon, Dec 12, 2:07 AM</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-weather-manager">home-dashboard-weather-manager</a>
-    </td>
-    <td style="text-align:center;">☀️A piggy back API of Darksky to get the weather for my home dashboard.</td>
-    <td style="text-align:center;">Mon, Dec 12, 1:56 AM</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-train-manager">home-dashboard-train-manager</a>
-    </td>
-    <td style="text-align:center;">🚂 A piggy back api of Huxley to get train timetables for my home dashboard.</td>
-    <td style="text-align:center;">Sun, Dec 11, 8:24 PM</td>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -278,7 +278,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Fri, Dec 30, 6:18 PM</b>
+This README was last generated on: <b>Sat, Dec 31, 1:14 AM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
