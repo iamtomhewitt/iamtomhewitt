@@ -38,6 +38,20 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
   </tr>
   <tr>
     <td style="text-align:center;">
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-train-manager">home-dashboard-train-manager</a>
+    </td>
+    <td style="text-align:center;">🚂 A piggy back api of Huxley to get train timetables for my home dashboard.</td>
+    <td style="text-align:center;">Sun, Jan 1, 9:42 PM</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;github-releaser">github-releaser</a>
+    </td>
+    <td style="text-align:center;">Bump version, generate changelog with issue links, commit, tag, push and create Github release, all automatically.</td>
+    <td style="text-align:center;">Sun, Jan 1, 9:01 PM</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-weather-manager">home-dashboard-weather-manager</a>
     </td>
     <td style="text-align:center;">☀️A piggy back API of Darksky to get the weather for my home dashboard.</td>
@@ -45,24 +59,10 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
   </tr>
   <tr>
     <td style="text-align:center;">
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-train-manager">home-dashboard-train-manager</a>
-    </td>
-    <td style="text-align:center;">🚂 A piggy back api of Huxley to get train timetables for my home dashboard.</td>
-    <td style="text-align:center;">Fri, Dec 30, 7:27 PM</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;board-game-intensifier">board-game-intensifier</a>
     </td>
     <td style="text-align:center;">Make board games more intense with the Who Wants To Be A Millionaire? soundboard.</td>
     <td style="text-align:center;">Wed, Dec 14, 7:14 PM</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;github-releaser">github-releaser</a>
-    </td>
-    <td style="text-align:center;">Bump version, generate changelog with issue links, commit, tag, push and create Github release, all automatically.</td>
-    <td style="text-align:center;">Mon, Dec 12, 2:07 AM</td>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -278,7 +278,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sun, Jan 1, 6:17 PM</b>
+This README was last generated on: <b>Mon, Jan 2, 1:16 AM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
