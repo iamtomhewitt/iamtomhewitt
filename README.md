@@ -38,6 +38,13 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
   </tr>
   <tr>
     <td style="text-align:center;">
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;board-game-intensifier">board-game-intensifier</a>
+    </td>
+    <td style="text-align:center;">Make board games more intense with the Who Wants To Be A Millionaire? soundboard.</td>
+    <td style="text-align:center;">Sat, Jan 7, 4:28 PM</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;website">website</a>
     </td>
     <td style="text-align:center;">My portfolio &#x2F; website - made in an attempt to learn React.</td>
@@ -63,13 +70,6 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     </td>
     <td style="text-align:center;">☀️A piggy back API of Darksky to get the weather for my home dashboard.</td>
     <td style="text-align:center;">Fri, Dec 30, 7:40 PM</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;board-game-intensifier">board-game-intensifier</a>
-    </td>
-    <td style="text-align:center;">Make board games more intense with the Who Wants To Be A Millionaire? soundboard.</td>
-    <td style="text-align:center;">Wed, Dec 14, 7:14 PM</td>
   </tr>
 </table>
 
@@ -278,7 +278,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sat, Jan 7, 12:27 PM</b>
+This README was last generated on: <b>Sat, Jan 7, 6:18 PM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
