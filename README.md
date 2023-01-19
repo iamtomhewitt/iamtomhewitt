@@ -259,7 +259,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
   <a href="https://www.instagram.com/iamtomhewitt/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/tom-hewitt-ab7724a8/">
+  <a href="https://www.linkedin.com/in/thomas-hewitt-ab7724a8/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://iamtomhewitt.github.io/website/#/">
@@ -278,7 +278,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Thu, Jan 19, 6:20 PM</b>
+This README was last generated on: <b>Thu, Jan 19, 11:39 PM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
