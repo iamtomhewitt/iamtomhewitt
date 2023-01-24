@@ -38,17 +38,17 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
   </tr>
   <tr>
     <td style="text-align:center;">
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-train-manager">home-dashboard-train-manager</a>
+    </td>
+    <td style="text-align:center;">🚂 A piggy back api of Huxley to get train timetables for my home dashboard.</td>
+    <td style="text-align:center;">Tue, Jan 24, 1:11 AM</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;website">website</a>
     </td>
     <td style="text-align:center;">My portfolio &#x2F; website - made in an attempt to learn React.</td>
     <td style="text-align:center;">Mon, Jan 23, 5:45 PM</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-train-manager">home-dashboard-train-manager</a>
-    </td>
-    <td style="text-align:center;">🚂 A piggy back api of Huxley to get train timetables for my home dashboard.</td>
-    <td style="text-align:center;">Sat, Jan 7, 8:04 PM</td>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -278,7 +278,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Mon, Jan 23, 6:18 PM</b>
+This README was last generated on: <b>Tue, Jan 24, 1:19 AM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
