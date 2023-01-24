@@ -38,6 +38,13 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
   </tr>
   <tr>
     <td style="text-align:center;">
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-weather-manager">home-dashboard-weather-manager</a>
+    </td>
+    <td style="text-align:center;">☀️A piggy back API of Darksky to get the weather for my home dashboard.</td>
+    <td style="text-align:center;">Tue, Jan 24, 1:23 AM</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-train-manager">home-dashboard-train-manager</a>
     </td>
     <td style="text-align:center;">🚂 A piggy back api of Huxley to get train timetables for my home dashboard.</td>
@@ -63,13 +70,6 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     </td>
     <td style="text-align:center;">Make board games more intense with the Who Wants To Be A Millionaire? soundboard.</td>
     <td style="text-align:center;">Sat, Jan 7, 4:28 PM</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-weather-manager">home-dashboard-weather-manager</a>
-    </td>
-    <td style="text-align:center;">☀️A piggy back API of Darksky to get the weather for my home dashboard.</td>
-    <td style="text-align:center;">Fri, Dec 30, 7:40 PM</td>
   </tr>
 </table>
 
@@ -278,7 +278,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Tue, Jan 24, 1:19 AM</b>
+This README was last generated on: <b>Tue, Jan 24, 6:19 AM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
