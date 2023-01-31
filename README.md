@@ -153,6 +153,11 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     <td style="text-align:center; font-weight: bold; width:40%;">Date At</td>
   </tr>
   <tr>
+    <td style="text-align:center;">SALVADOR </td>
+    <td style="text-align:center;">6970</td>
+    <td style="text-align:center;">Tue, Jan 31, 2023</td>
+  </tr>
+  <tr>
     <td style="text-align:center;">NahoGeo</td>
     <td style="text-align:center;">2740</td>
     <td style="text-align:center;">Sat, Jan 28, 2023</td>
@@ -171,11 +176,6 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     <td style="text-align:center;">rafamel</td>
     <td style="text-align:center;">10900</td>
     <td style="text-align:center;">Wed, Jan 11, 2023</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">pedro</td>
-    <td style="text-align:center;">7060</td>
-    <td style="text-align:center;">Tue, Dec 27, 2022</td>
   </tr>
 </table>
 
@@ -266,7 +266,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/3002268/tom">
-    <img src="https://img.shields.io/badge/reputation-2223-green?style=for-the-badge&logo=stackoverflow" />
+    <img src="https://img.shields.io/badge/reputation-2233-green?style=for-the-badge&logo=stackoverflow" />
   </a>
 </div>
 
@@ -278,7 +278,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Tue, Jan 31, 1:21 AM</b>
+This README was last generated on: <b>Tue, Jan 31, 6:20 AM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
