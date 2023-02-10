@@ -3,7 +3,7 @@
 </div>
 
 <div align='center'>
-    <p>I'm Tom, a software developer at William Hill. I mainly work with the following:</p>
+    <p>I'm Tom, a Principal Developer at William Hill. I mainly work with the following:</p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
@@ -279,7 +279,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Fri, Feb 10, 4:23 PM</b>
+This README was last generated on: <b>Fri, Feb 10, 4:27 PM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
