@@ -39,17 +39,17 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
   </tr>
   <tr>
     <td style="text-align:center;">
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;github-releaser">github-releaser</a>
+    </td>
+    <td style="text-align:center;">Bump version, generate changelog with issue links, commit, tag, push and create Github release, all automatically.</td>
+    <td style="text-align:center;">Sun, Mar 5, 1:51 AM</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager">home-dashboard-recipe-manager</a>
     </td>
     <td style="text-align:center;">An app for managing recipes and ingredients for my home dashboard.</td>
     <td style="text-align:center;">Sat, Feb 11, 4:49 PM</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;github-releaser">github-releaser</a>
-    </td>
-    <td style="text-align:center;">Bump version, generate changelog with issue links, commit, tag, push and create Github release, all automatically.</td>
-    <td style="text-align:center;">Fri, Jan 27, 2:56 AM</td>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -279,7 +279,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sun, Mar 5, 1:40 AM</b>
+This README was last generated on: <b>Sun, Mar 5, 6:19 AM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
