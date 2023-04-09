@@ -39,6 +39,13 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
   </tr>
   <tr>
     <td style="text-align:center;">
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard">home-dashboard</a>
+    </td>
+    <td style="text-align:center;">🏡 A dashboard with useful information to display in my house. It runs on an Android tablet 24&#x2F;7, stuck to my fridge using magnets.</td>
+    <td style="text-align:center;">Sun, Apr 9, 2:02 PM</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;board-game-intensifier">board-game-intensifier</a>
     </td>
     <td style="text-align:center;">Make board games more intense with the Who Wants To Be A Millionaire? soundboard.</td>
@@ -65,13 +72,6 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     <td style="text-align:center;">Bump version, generate changelog with issue links, commit, tag, push and create Github release, all automatically.</td>
     <td style="text-align:center;">Sun, Mar 5, 1:51 AM</td>
   </tr>
-  <tr>
-    <td style="text-align:center;">
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager">home-dashboard-recipe-manager</a>
-    </td>
-    <td style="text-align:center;">An app for managing recipes and ingredients for my home dashboard.</td>
-    <td style="text-align:center;">Sat, Feb 11, 4:49 PM</td>
-  </tr>
 </table>
 
 ### Latest Releases
@@ -79,6 +79,12 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
    <tr>
      <td style="text-align:center; font-weight: bold; width:40%;">Release</td>
      <td style="text-align:center; font-weight: bold; width:60%;">Released At</td>
+   </tr>
+   <tr>
+     <td style="text-align:center;">
+       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard&#x2F;releases&#x2F;tag&#x2F;6.10.2">home-dashboard 6.10.2</a>
+     </td>
+     <td style="text-align:center;">Sun, Apr 9, 2:00 PM</td>
    </tr>
    <tr>
      <td style="text-align:center;">
@@ -103,12 +109,6 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
        <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-splitwise-manager&#x2F;releases&#x2F;tag&#x2F;1.1.7">home-dashboard-splitwise-manager 1.1.7</a>
      </td>
      <td style="text-align:center;">Fri, Sep 16, 10:12 PM</td>
-   </tr>
-   <tr>
-     <td style="text-align:center;">
-       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard&#x2F;releases&#x2F;tag&#x2F;6.10.1">home-dashboard 6.10.1</a>
-     </td>
-     <td style="text-align:center;">Wed, Sep 14, 2:26 PM</td>
    </tr>
 </table>
 
@@ -279,7 +279,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sun, Apr 9, 1:26 PM</b>
+This README was last generated on: <b>Sun, Apr 9, 7:17 PM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
