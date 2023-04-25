@@ -39,6 +39,20 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
   </tr>
   <tr>
     <td style="text-align:center;">
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;vr-pacman">vr-pacman</a>
+    </td>
+    <td style="text-align:center;">First person VR Pacman, available on Google Play. Why not give it a five star review? ⭐️</td>
+    <td style="text-align:center;">Mon, Apr 24, 8:11 PM</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;jet-dash-vr">jet-dash-vr</a>
+    </td>
+    <td style="text-align:center;">🚀 My Android game on Google Play that has both VR and non-VR play modes.</td>
+    <td style="text-align:center;">Mon, Apr 24, 7:33 PM</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard">home-dashboard</a>
     </td>
     <td style="text-align:center;">🏡 A dashboard with useful information to display in my house. It runs on an Android tablet 24&#x2F;7, stuck to my fridge using magnets.</td>
@@ -50,20 +64,6 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     </td>
     <td style="text-align:center;">Make board games more intense with the Who Wants To Be A Millionaire? soundboard.</td>
     <td style="text-align:center;">Mon, Mar 6, 10:44 PM</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;jet-dash-vr">jet-dash-vr</a>
-    </td>
-    <td style="text-align:center;">🚀 My Android game on Google Play that has both VR and non-VR play modes.</td>
-    <td style="text-align:center;">Sun, Mar 5, 8:01 AM</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;vr-pacman">vr-pacman</a>
-    </td>
-    <td style="text-align:center;">First person VR Pacman, available on Google Play. Why not give it a five star review? ⭐️</td>
-    <td style="text-align:center;">Sun, Mar 5, 7:18 AM</td>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -279,7 +279,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Mon, Apr 24, 7:18 PM</b>
+This README was last generated on: <b>Tue, Apr 25, 2:13 AM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
