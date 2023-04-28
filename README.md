@@ -39,6 +39,13 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
   </tr>
   <tr>
     <td style="text-align:center;">
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard">home-dashboard</a>
+    </td>
+    <td style="text-align:center;">🏡 A dashboard with useful information to display in my house. It runs on an Android tablet 24&#x2F;7, stuck to my fridge using magnets.</td>
+    <td style="text-align:center;">Thu, Apr 27, 10:05 PM</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;vr-pacman">vr-pacman</a>
     </td>
     <td style="text-align:center;">First person VR Pacman, available on Google Play. Why not give it a five star review? ⭐️</td>
@@ -50,13 +57,6 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     </td>
     <td style="text-align:center;">🚀 My Android game on Google Play that has both VR and non-VR play modes.</td>
     <td style="text-align:center;">Mon, Apr 24, 7:33 PM</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard">home-dashboard</a>
-    </td>
-    <td style="text-align:center;">🏡 A dashboard with useful information to display in my house. It runs on an Android tablet 24&#x2F;7, stuck to my fridge using magnets.</td>
-    <td style="text-align:center;">Sun, Apr 9, 2:02 PM</td>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -82,9 +82,9 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
    </tr>
    <tr>
      <td style="text-align:center;">
-       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard&#x2F;releases&#x2F;tag&#x2F;6.10.2">home-dashboard 6.10.2</a>
+       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard&#x2F;releases&#x2F;tag&#x2F;6.10.3">home-dashboard 6.10.3</a>
      </td>
-     <td style="text-align:center;">Sun, Apr 9, 2:00 PM</td>
+     <td style="text-align:center;">Thu, Apr 27, 10:02 PM</td>
    </tr>
    <tr>
      <td style="text-align:center;">
@@ -279,7 +279,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Thu, Apr 27, 7:18 PM</b>
+This README was last generated on: <b>Fri, Apr 28, 2:13 AM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
