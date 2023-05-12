@@ -44,7 +44,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;jet-dash-vr">jet-dash-vr</a>
     </td>
     <td style="text-align:center;">🚀 My Android game on Google Play that has both VR and non-VR play modes.</td>
-    <td style="text-align:center;">Sat, May 6, 2:11 PM</td>
+    <td style="text-align:center;">Fri, May 12, 8:19 AM</td>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -281,7 +281,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Fri, May 12, 7:18 AM</b>
+This README was last generated on: <b>Fri, May 12, 1:27 PM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
