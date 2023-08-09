@@ -277,11 +277,11 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 
 <div align='center'>
   <img src="https://github.com/iamtomhewitt/iamtomhewitt/actions/workflows/build.yml/badge.svg" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=iamtomhewitt.iamtomhewitt" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fiamtomhewitt%2Fiamtomhewitt&countColor=%23263759&style=flat-square&labelStyle=lower" />
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Wed, Aug 9, 7:18 AM</b>
+This README was last generated on: <b>Wed, Aug 9, 10:47 AM</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
