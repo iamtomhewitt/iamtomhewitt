@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - node18
   schedule:
     - cron: '0 */6 * * *'
 
