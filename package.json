@@ -2,29 +2,24 @@
 	"name": "iamtomhewitt",
 	"version": "1.0.0",
 	"description": "My Github README",
-	"main": "index.js",
 	"scripts": {
 		"lint": "eslint .",
 		"lint-fix": "eslint . --fix",
-		"release": "github-releaser"
+		"release": "github-releaser",
+		"start": "node index.js"
 	},
 	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/iamtomhewitt/iamtomhewitt.git"
+		"apiUrl": "https://api.github.com/repos/iamtomhewitt/iamtomhewitt"
 	},
-	"bugs": {
-		"url": "https://github.com/iamtomhewitt/iamtomhewitt/issues"
-	},
-	"homepage": "https://github.com/iamtomhewitt/iamtomhewitt#readme",
 	"dependencies": {
-		"dotenv": "^10.0.0",
-		"github-releaser": "^1.5.1",
-		"mustache": "^4.2.0",
-		"node-fetch": "^2.6.1"
+		"dotenv": "16.3.1",
+		"github-releaser": "1.6.1",
+		"mustache": "4.2.0",
+		"node-fetch": "2.6.1"
 	},
 	"devDependencies": {
-		"eslint": "^7.32.0",
-		"eslint-config-airbnb-base": "^14.2.1",
-		"eslint-plugin-import": "^2.25.2"
+		"eslint": "8.53.0",
+		"eslint-config-airbnb-base": "15.0.0",
+		"eslint-plugin-import": "2.29.0"
 	}
 }
