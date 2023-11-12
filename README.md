@@ -41,6 +41,13 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
   </tr>
   <tr>
     <td style="text-align:center;">
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager">home-dashboard-recipe-manager</a>
+    </td>
+    <td style="text-align:center;">An app for managing recipes and ingredients for my home dashboard.</td>
+    <td style="text-align:center;">Sat, 11 Nov, 23:29</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard">home-dashboard</a>
     </td>
     <td style="text-align:center;">🏡 A dashboard with useful information to display in my house. It runs on an Android tablet 24&#x2F;7, stuck to my fridge using magnets.</td>
@@ -66,13 +73,6 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     </td>
     <td style="text-align:center;">Make board games more intense with the Who Wants To Be A Millionaire? soundboard.</td>
     <td style="text-align:center;">Mon, 6 Mar, 22:44</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;github-releaser">github-releaser</a>
-    </td>
-    <td style="text-align:center;">Bump version, generate changelog with issue links, commit, tag, push and create Github release, all automatically.</td>
-    <td style="text-align:center;">Sun, 5 Mar, 01:51</td>
   </tr>
 </table>
 
@@ -281,7 +281,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sat, 11 Nov, 18:16</b>
+This README was last generated on: <b>Sun, 12 Nov, 01:07</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
