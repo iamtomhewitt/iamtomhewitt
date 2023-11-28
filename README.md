@@ -156,6 +156,16 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     <td style="text-align:center; font-weight: bold; width:40%;">Date At</td>
   </tr>
   <tr>
+    <td style="text-align:center;">To:Kat&lt;3</td>
+    <td style="text-align:center;">9040</td>
+    <td style="text-align:center;">Tue, 28 Nov 2023</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">ya-ya-mijo</td>
+    <td style="text-align:center;">5240</td>
+    <td style="text-align:center;">Tue, 28 Nov 2023</td>
+  </tr>
+  <tr>
     <td style="text-align:center;">la muerte</td>
     <td style="text-align:center;">2320</td>
     <td style="text-align:center;">Thu, 16 Nov 2023</td>
@@ -169,16 +179,6 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     <td style="text-align:center;">Lucas </td>
     <td style="text-align:center;">1140</td>
     <td style="text-align:center;">Fri, 3 Nov 2023</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">blue ghost</td>
-    <td style="text-align:center;">9000</td>
-    <td style="text-align:center;">Wed, 1 Nov 2023</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">yellow gho</td>
-    <td style="text-align:center;">7520</td>
-    <td style="text-align:center;">Wed, 1 Nov 2023</td>
   </tr>
 </table>
 
@@ -281,7 +281,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Tue, 28 Nov, 01:06</b>
+This README was last generated on: <b>Tue, 28 Nov, 06:19</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
