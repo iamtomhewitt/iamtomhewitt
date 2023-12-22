@@ -108,9 +108,9 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
    </tr>
    <tr>
      <td style="text-align:center;">
-       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;jet-dash-vr&#x2F;releases&#x2F;tag&#x2F;5.5.1">jet-dash-vr 5.5.1</a>
+       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-splitwise-manager&#x2F;releases&#x2F;tag&#x2F;1.1.7">home-dashboard-splitwise-manager 1.1.7</a>
      </td>
-     <td style="text-align:center;">Thu, 2 Jun, 12:26</td>
+     <td style="text-align:center;">Fri, 16 Sept, 22:12</td>
    </tr>
 </table>
 
@@ -281,7 +281,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Fri, 22 Dec, 06:18</b>
+This README was last generated on: <b>Fri, 22 Dec, 12:26</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
