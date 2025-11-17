@@ -41,6 +41,13 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
   </tr>
   <tr>
     <td style="text-align:center;">
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;vr-pacman">vr-pacman</a>
+    </td>
+    <td style="text-align:center;">First person VR Pacman, available on Google Play. Why not give it a five star review? ⭐️</td>
+    <td style="text-align:center;">Sun, 16 Nov, 20:29</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager">home-dashboard-recipe-manager</a>
     </td>
     <td style="text-align:center;">An app for managing recipes and ingredients for my home dashboard.</td>
@@ -59,13 +66,6 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     </td>
     <td style="text-align:center;">🚀 My Android game on Google Play that has both VR and non-VR play modes.</td>
     <td style="text-align:center;">Sun, 20 Aug, 17:51</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;vr-pacman">vr-pacman</a>
-    </td>
-    <td style="text-align:center;">First person VR Pacman, available on Google Play. Why not give it a five star review? ⭐️</td>
-    <td style="text-align:center;">Sun, 20 Aug, 17:47</td>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -281,7 +281,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sun, 16 Nov, 18:27</b>
+This README was last generated on: <b>Mon, 17 Nov, 01:44</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
