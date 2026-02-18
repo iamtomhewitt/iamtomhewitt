@@ -41,10 +41,17 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
   </tr>
   <tr>
     <td style="text-align:center;">
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard">home-dashboard</a>
+    </td>
+    <td style="text-align:center;">🏡 A dashboard with useful information to display in my house. It runs on an Android tablet 24&#x2F;7, stuck to my fridge using magnets.</td>
+    <td style="text-align:center;">Tue, 17 Feb, 22:23</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-config-server">home-dashboard-config-server</a>
     </td>
     <td style="text-align:center;">A CMS for my home-dashboard.</td>
-    <td style="text-align:center;">Tue, 17 Feb, 18:40</td>
+    <td style="text-align:center;">Tue, 17 Feb, 21:36</td>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -52,13 +59,6 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     </td>
     <td style="text-align:center;">An app for managing recipes and ingredients for my home dashboard.</td>
     <td style="text-align:center;">Tue, 17 Feb, 18:38</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard">home-dashboard</a>
-    </td>
-    <td style="text-align:center;">🏡 A dashboard with useful information to display in my house. It runs on an Android tablet 24&#x2F;7, stuck to my fridge using magnets.</td>
-    <td style="text-align:center;">Mon, 16 Feb, 22:45</td>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -281,7 +281,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Tue, 17 Feb, 18:59</b>
+This README was last generated on: <b>Wed, 18 Feb, 02:26</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
