@@ -1,5 +1,5 @@
 const fetch = require('node-fetch');
-const { toFriendlyDate } = require('./lib');
+const { toFriendlyDateWithYear } = require('./lib');
 
 let repos = [];
 const headers = {
@@ -19,7 +19,7 @@ const getLastUpdatedRepos = () => {
 
   const build = (data) => ({
     name: data.name,
-    lastUpdated: toFriendlyDate(data.pushed_at),
+    lastUpdated: toFriendlyDateWithYear(data.pushed_at),
     description: data.description,
     url: data.html_url
   });
@@ -61,7 +61,7 @@ const getLatestReleases = async () => {
   }
 
   releases.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
-  releases.map((r) => r.publishedAt = toFriendlyDate(r.publishedAt));
+  releases.map((r) => r.publishedAt = toFriendlyDateWithYear(r.publishedAt));
 
   console.log('Finished getting latest releases from repos');
 
