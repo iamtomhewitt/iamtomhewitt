@@ -44,7 +44,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard">home-dashboard</a>
     </td>
     <td style="text-align:center;">🏡 A dashboard with useful information to display in my house. It runs on an Android tablet 24&#x2F;7, stuck to my fridge using magnets.</td>
-    <td style="text-align:center;">Wed, 18 Feb, 22:24</td>
+    <td style="text-align:center;">Thu, 19 Feb, 22:05</td>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -281,7 +281,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Thu, 19 Feb, 18:53</b>
+This README was last generated on: <b>Fri, 20 Feb, 02:20</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
