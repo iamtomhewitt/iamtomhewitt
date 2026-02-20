@@ -1,6 +1,6 @@
 <div align='center'>
   <h1>Hey! 👋🏻 </h1>
-</div> 
+</div>
 
 <div align='center'>
     <p>I'm Tom, a Principal Developer at William Hill. I mainly work with the following:</p>
@@ -44,35 +44,35 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard">home-dashboard</a>
     </td>
     <td style="text-align:center;">🏡 A dashboard with useful information to display in my house. It runs on an Android tablet 24&#x2F;7, stuck to my fridge using magnets.</td>
-    <td style="text-align:center;">Thu, 19 Feb, 22:05</td>
+    <td style="text-align:center;">Fri, 20 Feb 2026, 23:23</td>
   </tr>
   <tr>
     <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-config-server">home-dashboard-config-server</a>
     </td>
     <td style="text-align:center;">A CMS for my home-dashboard.</td>
-    <td style="text-align:center;">Tue, 17 Feb, 21:36</td>
+    <td style="text-align:center;">Tue, 17 Feb 2026, 21:36</td>
   </tr>
   <tr>
     <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager">home-dashboard-recipe-manager</a>
     </td>
     <td style="text-align:center;">An app for managing recipes and ingredients for my home dashboard.</td>
-    <td style="text-align:center;">Tue, 17 Feb, 18:38</td>
+    <td style="text-align:center;">Tue, 17 Feb 2026, 18:38</td>
   </tr>
   <tr>
     <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;vr-pacman">vr-pacman</a>
     </td>
     <td style="text-align:center;">First person VR Pacman, available on Google Play. Why not give it a five star review? ⭐️</td>
-    <td style="text-align:center;">Wed, 4 Feb, 23:21</td>
+    <td style="text-align:center;">Wed, 4 Feb 2026, 23:21</td>
   </tr>
   <tr>
     <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;jet-dash-vr">jet-dash-vr</a>
     </td>
     <td style="text-align:center;">🚀 My Android game on Google Play that has both VR and non-VR play modes.</td>
-    <td style="text-align:center;">Sun, 20 Aug, 17:51</td>
+    <td style="text-align:center;">Sun, 20 Aug 2023, 17:51</td>
   </tr>
 </table>
 
@@ -86,31 +86,31 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
      <td style="text-align:center;">
        <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard&#x2F;releases&#x2F;tag&#x2F;6.10.3">home-dashboard 6.10.3</a>
      </td>
-     <td style="text-align:center;">Thu, 27 Apr, 22:02</td>
+     <td style="text-align:center;">Thu, 27 Apr 2023, 22:02</td>
    </tr>
    <tr>
      <td style="text-align:center;">
        <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-recipe-manager&#x2F;releases&#x2F;tag&#x2F;2.5.0">home-dashboard-recipe-manager 2.5.0</a>
      </td>
-     <td style="text-align:center;">Sat, 11 Feb, 16:49</td>
+     <td style="text-align:center;">Sat, 11 Feb 2023, 16:49</td>
    </tr>
    <tr>
      <td style="text-align:center;">
        <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;website&#x2F;releases&#x2F;tag&#x2F;1.1.4">website 1.1.4</a>
      </td>
-     <td style="text-align:center;">Mon, 23 Jan, 17:42</td>
+     <td style="text-align:center;">Mon, 23 Jan 2023, 17:42</td>
    </tr>
    <tr>
      <td style="text-align:center;">
        <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-config-server&#x2F;releases&#x2F;tag&#x2F;1.3.3">home-dashboard-config-server 1.3.3</a>
      </td>
-     <td style="text-align:center;">Sun, 2 Oct, 13:49</td>
+     <td style="text-align:center;">Sun, 2 Oct 2022, 13:49</td>
    </tr>
    <tr>
      <td style="text-align:center;">
        <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard-splitwise-manager&#x2F;releases&#x2F;tag&#x2F;1.1.7">home-dashboard-splitwise-manager 1.1.7</a>
      </td>
-     <td style="text-align:center;">Fri, 16 Sept, 22:12</td>
+     <td style="text-align:center;">Fri, 16 Sept 2022, 22:12</td>
    </tr>
 </table>
 
@@ -281,7 +281,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Fri, 20 Feb, 18:51</b>
+This README was last generated on: <b>Fri, 20 Feb, 23:30</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
