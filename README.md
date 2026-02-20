@@ -1,6 +1,6 @@
 <div align='center'>
   <h1>Hey! 👋🏻 </h1>
-</div>
+</div> 
 
 <div align='center'>
     <p>I'm Tom, a Principal Developer at William Hill. I mainly work with the following:</p>
