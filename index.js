@@ -22,7 +22,7 @@ const run = async () => {
     lastRefreshed: toFriendlyDate(new Date()),
     lastUpdatedRepos,
     latestReleases,
-    spotify: `https://spotify-github-profile.vercel.app/api/view?uid=${process.env.SPOTIFY_UID}&cover_image=true&theme=natemoo-re`,
+    spotify: `https://spotify-github-profile.kittinanx.com/api/view?uid=${process.env.SPOTIFY_UID}&cover_image=true&theme=natemoo-re`,
     ghostHunterScores,
     mostRecentJetDashVrScores,
     mostRecentGhostHunterScores,
