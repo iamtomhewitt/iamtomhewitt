@@ -25,7 +25,7 @@
 <br/>
 
 <div align='center'>
-I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-profile.kittinanx.com&#x2F;api&#x2F;view?uid&#x3D;undefined&amp;cover_image&#x3D;true&amp;theme&#x3D;spotify-embed"/>
+I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-profile.kittinanx.com&#x2F;api&#x2F;view?uid&#x3D;6uewucrtqgm5qi9s7vafweivn&amp;cover_image&#x3D;true&amp;theme&#x3D;spotify-embed"/>
 </div>
 
 <br/>
@@ -113,7 +113,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sun 5 Apr, 10:50</b>
+This README was last generated on: <b>Sun 5 Apr, 10:51</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
