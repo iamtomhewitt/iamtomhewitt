@@ -17,7 +17,7 @@ jobs:
       - name: setup node
         uses: actions/setup-node@v1
         with:
-          node-version: '18.x'
+          node-version: '24.x'
       - name: cache
         uses: actions/cache@v3
         with:

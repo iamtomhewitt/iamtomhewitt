@@ -12,7 +12,7 @@
 		"apiUrl": "https://api.github.com/repos/iamtomhewitt/iamtomhewitt"
 	},
 	"dependencies": {
-		"dotenv": "16.3.1",
+		"dotenv": "17.4.0",
 		"github-releaser": "1.6.1",
 		"mustache": "4.2.0",
 		"node-fetch": "2.6.1"
