@@ -25,7 +25,7 @@
 <br/>
 
 <div align='center'>
-I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-profile.vercel.app&#x2F;api&#x2F;view?uid&#x3D;6uewucrtqgm5qi9s7vafweivn&amp;cover_image&#x3D;true&amp;theme&#x3D;natemoo-re"/>
+I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-profile.kittinanx.com&#x2F;api&#x2F;view?uid&#x3D;6uewucrtqgm5qi9s7vafweivn&amp;cover_image&#x3D;true&amp;theme&#x3D;spotify-embed"/>
 </div>
 
 <br/>
