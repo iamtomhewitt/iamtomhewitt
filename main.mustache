@@ -38,6 +38,7 @@ I'm currently listening to: <br/><img src="{{spotify}}"/>
     <td style="text-align:center; font-weight: bold; width:20%;">Name</td>
     <td style="text-align:center; font-weight: bold; width:60%;">Description</td>
     <td style="text-align:center; font-weight: bold; width:20%;">Updated At</td>
+    <td style="text-align:center; font-weight: bold; width:20%;">Version</td>
   </tr>
   {{#lastUpdatedRepos}}
   <tr>
@@ -46,24 +47,9 @@ I'm currently listening to: <br/><img src="{{spotify}}"/>
     </td>
     <td style="text-align:center;">{{description}}</td>
     <td style="text-align:center;">{{lastUpdated}}</td>
+    <td style="text-align:center;">{{tag}}</td>
   </tr>
   {{/lastUpdatedRepos}}
-</table>
-
-### Latest Releases
-<table style="width: 100%;">
-   <tr>
-     <td style="text-align:center; font-weight: bold; width:40%;">Release</td>
-     <td style="text-align:center; font-weight: bold; width:60%;">Released At</td>
-   </tr>
-   {{#latestReleases}}
-   <tr>
-     <td style="text-align:center;">
-       <a href="{{url}}">{{repoName}} {{version}}</a>
-     </td>
-     <td style="text-align:center;">{{publishedAt}}</td>
-   </tr>
-   {{/latestReleases}}
 </table>
 
 </div>

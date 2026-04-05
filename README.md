@@ -25,7 +25,7 @@
 <br/>
 
 <div align='center'>
-I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-profile.kittinanx.com&#x2F;api&#x2F;view?uid&#x3D;6uewucrtqgm5qi9s7vafweivn&amp;cover_image&#x3D;true&amp;theme&#x3D;spotify-embed"/>
+I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-profile.kittinanx.com&#x2F;api&#x2F;view?uid&#x3D;undefined&amp;cover_image&#x3D;true&amp;theme&#x3D;spotify-embed"/>
 </div>
 
 <br/>
@@ -38,6 +38,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     <td style="text-align:center; font-weight: bold; width:20%;">Name</td>
     <td style="text-align:center; font-weight: bold; width:60%;">Description</td>
     <td style="text-align:center; font-weight: bold; width:20%;">Updated At</td>
+    <td style="text-align:center; font-weight: bold; width:20%;">Version</td>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -45,6 +46,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     </td>
     <td style="text-align:center;">A dashboard with useful information to display in my house. It runs on an Android tablet 24&#x2F;7, stuck to my fridge using magnets.</td>
     <td style="text-align:center;">Sat, 4 Apr 2026, 21:34</td>
+    <td style="text-align:center;">7.0.0</td>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -52,6 +54,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     </td>
     <td style="text-align:center;">First person VR Pacman, available on Google Play. Why not give it a five star review? ⭐️</td>
     <td style="text-align:center;">Wed, 4 Feb 2026, 23:21</td>
+    <td style="text-align:center;">2.15.1</td>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -59,6 +62,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     </td>
     <td style="text-align:center;">🚀 My Android game on Google Play that has both VR and non-VR play modes.</td>
     <td style="text-align:center;">Sun, 20 Aug 2023, 17:51</td>
+    <td style="text-align:center;">5.5.1</td>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -66,6 +70,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     </td>
     <td style="text-align:center;">Make board games more intense with the Who Wants To Be A Millionaire? soundboard.</td>
     <td style="text-align:center;">Mon, 6 Mar 2023, 22:44</td>
+    <td style="text-align:center;">1.0.1</td>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -73,180 +78,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     </td>
     <td style="text-align:center;">Bump version, generate changelog with issue links, commit, tag, push and create Github release, all automatically.</td>
     <td style="text-align:center;">Sun, 5 Mar 2023, 01:51</td>
-  </tr>
-</table>
-
-### Latest Releases
-<table style="width: 100%;">
-   <tr>
-     <td style="text-align:center; font-weight: bold; width:40%;">Release</td>
-     <td style="text-align:center; font-weight: bold; width:60%;">Released At</td>
-   </tr>
-   <tr>
-     <td style="text-align:center;">
-       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard&#x2F;releases&#x2F;tag&#x2F;6.10.3">home-dashboard 6.10.3</a>
-     </td>
-     <td style="text-align:center;">Thu, 27 Apr 2023, 22:02</td>
-   </tr>
-   <tr>
-     <td style="text-align:center;">
-       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;website&#x2F;releases&#x2F;tag&#x2F;1.1.4">website 1.1.4</a>
-     </td>
-     <td style="text-align:center;">Mon, 23 Jan 2023, 17:42</td>
-   </tr>
-   <tr>
-     <td style="text-align:center;">
-       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;jet-dash-vr&#x2F;releases&#x2F;tag&#x2F;5.5.1">jet-dash-vr 5.5.1</a>
-     </td>
-     <td style="text-align:center;">Thu, 2 Jun 2022, 12:26</td>
-   </tr>
-   <tr>
-     <td style="text-align:center;">
-       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;vr-pacman&#x2F;releases&#x2F;tag&#x2F;2.15.1">vr-pacman 2.15.1</a>
-     </td>
-     <td style="text-align:center;">Thu, 2 Jun 2022, 12:24</td>
-   </tr>
-   <tr>
-     <td style="text-align:center;">
-       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;board-game-intensifier&#x2F;releases&#x2F;tag&#x2F;1.0.1">board-game-intensifier 1.0.1</a>
-     </td>
-     <td style="text-align:center;">Thu, 23 Dec 2021, 11:35</td>
-   </tr>
-</table>
-
-### [Ghost Hunter VR](https://play.google.com/store/apps/details?id=com.SwivelChairGames.VRPacman) Top Five Scores
-<table style="width: 100%;">
-  <tr>
-    <td style="text-align:center; font-weight: bold; width:20%;">Name</td>
-    <td style="text-align:center; font-weight: bold; width:40%;">Score</td>
-    <td style="text-align:center; font-weight: bold; width:40%;">Date At</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">MT1</td>
-    <td style="text-align:center;">39290</td>
-    <td style="text-align:center;">Thu, 20 May 2021</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">SEBAPRO</td>
-    <td style="text-align:center;">33620</td>
-    <td style="text-align:center;">Thu, 14 Nov 2019</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">ME</td>
-    <td style="text-align:center;">25900</td>
-    <td style="text-align:center;">Sat, 30 Nov 2019</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">Julius</td>
-    <td style="text-align:center;">25800</td>
-    <td style="text-align:center;">Tue, 17 Sept 2019</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">jhewitt24</td>
-    <td style="text-align:center;">23470</td>
-    <td style="text-align:center;">Fri, 20 Sept 2019</td>
-  </tr>
-</table>
-
-### [Ghost Hunter VR](https://play.google.com/store/apps/details?id=com.SwivelChairGames.VRPacman) Most Recent Scores
-<table style="width: 100%;">
-  <tr>
-    <td style="text-align:center; font-weight: bold; width:20%;">Name</td>
-    <td style="text-align:center; font-weight: bold; width:40%;">Score</td>
-    <td style="text-align:center; font-weight: bold; width:40%;">Date At</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">nickname..</td>
-    <td style="text-align:center;">21280</td>
-    <td style="text-align:center;">Sat, 4 Apr 2026</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">akak</td>
-    <td style="text-align:center;">2220</td>
-    <td style="text-align:center;">Thu, 13 Feb 2025</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">Bryan </td>
-    <td style="text-align:center;">1520</td>
-    <td style="text-align:center;">Sun, 29 Dec 2024</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">arthurboby</td>
-    <td style="text-align:center;">2240</td>
-    <td style="text-align:center;">Tue, 5 Nov 2024</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">Timothy</td>
-    <td style="text-align:center;">5320</td>
-    <td style="text-align:center;">Mon, 16 Sept 2024</td>
-  </tr>
-</table>
-
-### [Jet Dash VR](https://play.google.com/store/apps/details?id=com.BlueRobotGames.JetDashVR&hl=en_GB&gl=US) Top Five Scores
-<table style="width: 100%;">
-  <tr>
-    <td style="text-align:center; font-weight: bold; width:20%;">Name</td>
-    <td style="text-align:center; font-weight: bold; width:40%;">Score</td>
-    <td style="text-align:center; font-weight: bold; width:40%;">Date At</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">Tom (The Dev)</td>
-    <td style="text-align:center;">17883212</td>
-    <td style="text-align:center;">Sun, 26 Apr 2020</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">Tyler 2.0</td>
-    <td style="text-align:center;">11498186</td>
-    <td style="text-align:center;">Sat, 25 Apr 2020</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">Charlie</td>
-    <td style="text-align:center;">1607532</td>
-    <td style="text-align:center;">Sat, 25 Apr 2020</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">MT1</td>
-    <td style="text-align:center;">1277859</td>
-    <td style="text-align:center;">Wed, 10 Mar 2021</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">tyler</td>
-    <td style="text-align:center;">1035015</td>
-    <td style="text-align:center;">Sat, 25 Apr 2020</td>
-  </tr>
-</table>
-
-### [Jet Dash VR](https://play.google.com/store/apps/details?id=com.BlueRobotGames.JetDashVR&hl=en_GB&gl=US) Most Recent Scores
-<table style="width: 100%;">
-  <tr>
-    <td style="text-align:center; font-weight: bold; width:20%;">Name</td>
-    <td style="text-align:center; font-weight: bold; width:40%;">Score</td>
-    <td style="text-align:center; font-weight: bold; width:40%;">Date At</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">Kar_77</td>
-    <td style="text-align:center;">49314</td>
-    <td style="text-align:center;">Sun, 5 May 2024</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">tommy win</td>
-    <td style="text-align:center;">11538</td>
-    <td style="text-align:center;">Mon, 4 Dec 2023</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">tiago</td>
-    <td style="text-align:center;">250</td>
-    <td style="text-align:center;">Wed, 16 Aug 2023</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">Huedzin</td>
-    <td style="text-align:center;">17818</td>
-    <td style="text-align:center;">Fri, 11 Aug 2023</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">elchutatv</td>
-    <td style="text-align:center;">33850</td>
-    <td style="text-align:center;">Fri, 11 Aug 2023</td>
+    <td style="text-align:center;">1.6.1</td>
   </tr>
 </table>
 
@@ -281,7 +113,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sun 5 Apr, 09:48</b>
+This README was last generated on: <b>Sun 5 Apr, 10:50</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
