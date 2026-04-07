@@ -44,9 +44,9 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;website">website</a>
     </td>
-    <td style="text-align:center;">My portfolio &#x2F; website - made in an attempt to learn React.</td>
-    <td style="text-align:center;">Mon, 6 Apr 2026, 16:34</td>
-    <td style="text-align:center;">1.1.4</td>
+    <td style="text-align:center;">My portfolio &#x2F; website</td>
+    <td style="text-align:center;">Tue, 7 Apr 2026, 11:59</td>
+    <td style="text-align:center;">2.0.1</td>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -113,7 +113,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Tue 7 Apr, 08:20</b>
+This README was last generated on: <b>Tue 7 Apr, 14:22</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
