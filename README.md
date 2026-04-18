@@ -42,6 +42,14 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
   </tr>
   <tr>
     <td style="text-align:center;">
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;spotify">spotify</a>
+    </td>
+    <td style="text-align:center;">API for my spotify to power my website</td>
+    <td style="text-align:center;">Sat, 18 Apr 2026, 21:10</td>
+    <td style="text-align:center;">0.1.0</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;website">website</a>
     </td>
     <td style="text-align:center;">My portfolio &#x2F; website</td>
@@ -71,14 +79,6 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
     <td style="text-align:center;">🚀 My Android game on Google Play that has both VR and non-VR play modes.</td>
     <td style="text-align:center;">Sun, 20 Aug 2023, 17:51</td>
     <td style="text-align:center;">5.5.1</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;board-game-intensifier">board-game-intensifier</a>
-    </td>
-    <td style="text-align:center;">Make board games more intense with the Who Wants To Be A Millionaire? soundboard.</td>
-    <td style="text-align:center;">Mon, 6 Mar 2023, 22:44</td>
-    <td style="text-align:center;">1.0.1</td>
   </tr>
 </table>
 
@@ -113,7 +113,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sat 18 Apr, 14:05</b>
+This README was last generated on: <b>Sat 18 Apr, 21:11</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
