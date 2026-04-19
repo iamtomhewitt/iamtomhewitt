@@ -9,20 +9,20 @@ I'm currently a Principal Developer at William Hill, working on software that po
 <div>And is automatically generated every <b>6 hours</b>!</div>
 
 ### Skills
-<img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;AWS-FF9900?logo&#x3D;amazonaws&amp;logoColor&#x3D;fff"/>
-<img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;Docker-0db7ed?logo&#x3D;docker&amp;logoColor&#x3D;fff"/>
-<img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;Git-F1502F?logo&#x3D;git&amp;logoColor&#x3D;fff"/>
-<img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;GitHub-ffffff?logo&#x3D;github&amp;logoColor&#x3D;000"/>
-<img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;GitLab-FC6D26?logo&#x3D;gitlab&amp;logoColor&#x3D;fff"/>
-<img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;Java-ED8B00?logo&#x3D;coffeescript&amp;logoColor&#x3D;fff"/>
-<img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;JavaScript-F0DB4F?logo&#x3D;javascript&amp;logoColor&#x3D;000"/>
-<img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;Jest-BD1424?logo&#x3D;jest&amp;logoColor&#x3D;fff"/>
-<img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;MySQL-00758F?logo&#x3D;mysql&amp;logoColor&#x3D;fff"/>
-<img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;NodeJS-68A063?logo&#x3D;node.js&amp;logoColor&#x3D;fff"/>
-<img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;Python-306998?logo&#x3D;python&amp;logoColor&#x3D;fff"/>
-<img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;React-61DBFB?logo&#x3D;react&amp;logoColor&#x3D;000"/>
-<img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;Storybook-FF4785?logo&#x3D;storybook&amp;logoColor&#x3D;fff"/>
-<img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;TypeScript-3074BF?logo&#x3D;typescript&amp;logoColor&#x3D;fff"/>
+<span><img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;AWS-FF9900?logo&#x3D;amazonaws&amp;logoColor&#x3D;fff"/></span>
+<span><img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;Docker-0db7ed?logo&#x3D;docker&amp;logoColor&#x3D;fff"/></span>
+<span><img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;Git-F1502F?logo&#x3D;git&amp;logoColor&#x3D;fff"/></span>
+<span><img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;GitHub-ffffff?logo&#x3D;github&amp;logoColor&#x3D;000"/></span>
+<span><img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;GitLab-FC6D26?logo&#x3D;gitlab&amp;logoColor&#x3D;fff"/></span>
+<span><img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;Java-ED8B00?logo&#x3D;coffeescript&amp;logoColor&#x3D;fff"/></span>
+<span><img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;JavaScript-F0DB4F?logo&#x3D;javascript&amp;logoColor&#x3D;000"/></span>
+<span><img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;Jest-BD1424?logo&#x3D;jest&amp;logoColor&#x3D;fff"/></span>
+<span><img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;MySQL-00758F?logo&#x3D;mysql&amp;logoColor&#x3D;fff"/></span>
+<span><img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;NodeJS-68A063?logo&#x3D;node.js&amp;logoColor&#x3D;fff"/></span>
+<span><img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;Python-306998?logo&#x3D;python&amp;logoColor&#x3D;fff"/></span>
+<span><img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;React-61DBFB?logo&#x3D;react&amp;logoColor&#x3D;000"/></span>
+<span><img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;Storybook-FF4785?logo&#x3D;storybook&amp;logoColor&#x3D;fff"/></span>
+<span><img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;TypeScript-3074BF?logo&#x3D;typescript&amp;logoColor&#x3D;fff"/></span>
 
 ### Socials
 <a href="https:&#x2F;&#x2F;www.instagram.com&#x2F;iamtomhewitt&#x2F;"><img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;Instagram-E4405F?logo&#x3D;instagram&amp;logoColor&#x3D;fff"/></a>
