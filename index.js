@@ -27,7 +27,7 @@ const { toFriendlyDate } = require('./services/lib');
   const socials = [
     { badgeUrl: 'https://shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff', url: 'https://www.instagram.com/iamtomhewitt/' },
     { badgeUrl: 'https://shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff', url: 'https://www.linkedin.com/in/thomas-hewitt-ab7724a8/' },
-    { badgeUrl: 'https://shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff', url: 'https://stackoverflow.com/users/3002268/tom' },
+    { badgeUrl: `https://shields.io/badge/Stack%20Overflow-${await getReputation()}-F58025?logo=stackoverflow&logoColor=fff`, url: 'https://stackoverflow.com/users/3002268/tom' },
     { badgeUrl: 'https://shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=fff', url: 'https://www.youtube.com/@iamtomhewitt' }
   ];
 
@@ -44,7 +44,6 @@ const { toFriendlyDate } = require('./services/lib');
   await generateReadMe({
     lastRefreshed: toFriendlyDate(new Date()),
     lastUpdatedRepos: await getLastUpdatedRepos(),
-    reputation: await getReputation(),
     skills,
     socials,
     spotifyNowListening: spotify.nowListening,

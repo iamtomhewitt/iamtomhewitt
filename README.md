@@ -2,7 +2,7 @@
 
 I'm currently a Principal Developer at William Hill, working on software that powers Self Service Betting Terminals and staff devices in shops throughout the UK. I'm big into Gitlab CI / automation and Slack based messaging for day to day developer tasks. I play drums and I'm a big Formula 1 fan!
 
-<div>This README was last generated on: <b>Sun 19 Apr, 20:10</b></div>
+<div>This README was last generated on: <b>Sun 19 Apr, 20:16</b></div>
 <div>And is automatically generated every <b>6 hours</b>!</div>
 <img src="https://github.com/iamtomhewitt/iamtomhewitt/actions/workflows/build.yml/badge.svg" />
 
@@ -25,7 +25,7 @@ I'm currently a Principal Developer at William Hill, working on software that po
 ### Socials
 <a href="https:&#x2F;&#x2F;www.instagram.com&#x2F;iamtomhewitt&#x2F;"><img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;Instagram-E4405F?logo&#x3D;instagram&amp;logoColor&#x3D;fff"/></a>
 <a href="https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;thomas-hewitt-ab7724a8&#x2F;"><img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;LinkedIn-0A66C2?logo&#x3D;linkedin&amp;logoColor&#x3D;fff"/></a>
-<a href="https:&#x2F;&#x2F;stackoverflow.com&#x2F;users&#x2F;3002268&#x2F;tom"><img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;Stack%20Overflow-F58025?logo&#x3D;stackoverflow&amp;logoColor&#x3D;fff"/></a>
+<a href="https:&#x2F;&#x2F;stackoverflow.com&#x2F;users&#x2F;3002268&#x2F;tom"><img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;Stack%20Overflow-2482-F58025?logo&#x3D;stackoverflow&amp;logoColor&#x3D;fff"/></a>
 <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;@iamtomhewitt"><img src="https:&#x2F;&#x2F;shields.io&#x2F;badge&#x2F;YouTube-FF0000?logo&#x3D;youtube&amp;logoColor&#x3D;fff"/></a>
 
 ### Music
