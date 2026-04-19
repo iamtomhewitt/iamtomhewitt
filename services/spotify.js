@@ -13,7 +13,7 @@ const topTracks = async (limit = 10) => {
   const response = await getData();
   return response.tracks
     .slice(0, limit)
-    .map((track, i) => ({
+    .map((track) => ({
       image: track.album.images[0].url,
       name: track.name
     }));
@@ -23,7 +23,7 @@ const topArtists = async (limit = 10) => {
   const response = await getData();
   return response.artists
     .slice(0, limit)
-    .map((artist, i) => ({
+    .map((artist) => ({
       image: artist.images[0].url,
       name: artist.name
     }));
