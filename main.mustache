@@ -20,23 +20,13 @@ I'm currently a Principal Developer at William Hill, working on software that po
 #### I'm currently listening to
 <img src="{{spotifyNowListening}}"/>
 
-<div>
-<h4>My Top Artists</h4>
-{{#spotifyTopArtists}}
-  <img width='16px' height='16px' src="{{image}}">&nbsp;{{name}}</img>
-  <br/>
-{{/spotifyTopArtists}}
-</div>
-
-<div>
-<h4>My Top Tracks</h4>
-{{#spotifyTopTracks}}
-  <img width='16px' height='16px' src="{{image}}">&nbsp;{{name}}</img>
-  <br/>
-{{/spotifyTopTracks}}
-</div>
-
+| Top Artists | Top Tracks |
+| --- | --- |
+{{#spotifyTopItems}}
+| <img width='16px' height='16px' src="{{artistImage}}"/> {{artistName}} | <img width='16px' height='16px' src="{{trackImage}}"/> {{trackName}} |
+{{/spotifyTopItems}}
 ###### Powered by my [Spotify API](https://github.com/iamtomhewitt/spotify)
+
 
 ### Recently Updated Repos
 <table style="width: 100%;">

@@ -31,6 +31,16 @@ const { toFriendlyDate } = require('./services/lib');
     { badgeUrl: 'https://shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=fff', url: 'https://www.youtube.com/@iamtomhewitt' }
   ];
 
+  const spotifyTableSize = 10;
+  const spotifyTopArtists = await spotify.topArtists(spotifyTableSize);
+  const spotifyTopTracks = await spotify.topTracks(spotifyTableSize);
+  const spotifyTopItems = Array.from({ length: spotifyTableSize }, (_, i) => ({
+    artistName: spotifyTopArtists[i].name,
+    artistImage: spotifyTopArtists[i].image,
+    trackName: spotifyTopTracks[i].name,
+    trackImage: spotifyTopTracks[i].image
+  }));
+
   await generateReadMe({
     lastRefreshed: toFriendlyDate(new Date()),
     lastUpdatedRepos: await getLastUpdatedRepos(),
@@ -38,7 +48,6 @@ const { toFriendlyDate } = require('./services/lib');
     skills,
     socials,
     spotifyNowListening: spotify.nowListening,
-    spotifyTopArtists: await spotify.topArtists(),
-    spotifyTopTracks: await spotify.topTracks()
+    spotifyTopItems
   });
 })();

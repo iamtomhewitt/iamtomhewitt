@@ -9,20 +9,20 @@ const getData = async () => {
   return json.data;
 };
 
-const topTracks = async () => {
+const topTracks = async (limit = 10) => {
   const response = await getData();
   return response.tracks
-    .slice(0, 10)
+    .slice(0, limit)
     .map((track, i) => ({
       image: track.album.images[0].url,
       name: `${i + 1}. ${track.name}`
     }));
 };
 
-const topArtists = async () => {
+const topArtists = async (limit = 10) => {
   const response = await getData();
   return response.artists
-    .slice(0, 10)
+    .slice(0, limit)
     .map((artist, i) => ({
       image: artist.images[0].url,
       name: `${i + 1}. ${artist.name}`
