@@ -6,10 +6,8 @@ const getReputation = async () => {
   const json = await fetch(url).then((r) => r.json());
   const stackoverflowData = json.items[0];
   const { reputation } = stackoverflowData;
-  console.log('Found rep: ', reputation);
-  return {
-    reputation
-  };
+  console.log('Found rep:', reputation);
+  return reputation;
 };
 
 module.exports = { getReputation };

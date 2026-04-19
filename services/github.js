@@ -36,7 +36,7 @@ const getLastUpdatedRepos = async () => {
 
   console.log('Finished getting last pushed repos');
 
-  return { lastUpdatedRepos };
+  return lastUpdatedRepos;
 };
 
 module.exports = {
