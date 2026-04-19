@@ -15,7 +15,7 @@ const topTracks = async (limit = 10) => {
     .slice(0, limit)
     .map((track, i) => ({
       image: track.album.images[0].url,
-      name: `${i + 1}. ${track.name}`
+      name: track.name
     }));
 };
 
@@ -25,7 +25,7 @@ const topArtists = async (limit = 10) => {
     .slice(0, limit)
     .map((artist, i) => ({
       image: artist.images[0].url,
-      name: `${i + 1}. ${artist.name}`
+      name: artist.name
     }));
 };
 
