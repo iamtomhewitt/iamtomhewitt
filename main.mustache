@@ -24,10 +24,7 @@ I'm currently a Principal Developer at William Hill, working on software that po
   <div style="width: 50%">
   <h4>My Top Artists</h4>
   {{#spotifyTopArtists}}
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="{{image}}"/>
-      <div>&nbsp;{{name}}</div>
-    </div>
+    <img width='16px' height='16px' src="{{image}}">&nbsp;{{name}}</img>
     <br/>
   {{/spotifyTopArtists}}
   </div>
@@ -35,10 +32,7 @@ I'm currently a Principal Developer at William Hill, working on software that po
   <div style="width: 50%">
   <h4>My Top Tracks</h4>
   {{#spotifyTopTracks}}
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="{{image}}"/>
-      <div>&nbsp;{{name}}</div>
-    </div>
+    <img width='16px' height='16px' src="{{image}}">&nbsp;{{name}}</img>
     <br/>
   {{/spotifyTopTracks}}
   </div>

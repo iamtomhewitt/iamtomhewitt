@@ -2,7 +2,7 @@
 
 I'm currently a Principal Developer at William Hill, working on software that powers Self Service Betting Terminals and staff devices in shops throughout the UK. I'm big into Gitlab CI / automation and Slack based messaging for day to day developer tasks. I play drums and I'm a big Formula 1 fan!
 
-<div>This README was last generated on: <b>Sun 19 Apr, 19:41</b></div>
+<div>This README was last generated on: <b>Sun 19 Apr, 19:45</b></div>
 <div>And is automatically generated every <b>6 hours</b>!</div>
 <img src="https://github.com/iamtomhewitt/iamtomhewitt/actions/workflows/build.yml/badge.svg" />
 
@@ -35,109 +35,49 @@ I'm currently a Principal Developer at William Hill, working on software that po
 <div style="width: 100%; display: inline-flex;">
   <div style="width: 50%">
   <h4>My Top Artists</h4>
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5ebd5c892118f77d34e18bedc1e"/>
-      <div>&nbsp;1. Northlane</div>
-    </div>
+    <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5ebd5c892118f77d34e18bedc1e">&nbsp;1. Northlane</img>
     <br/>
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb46f1cbdfdaadaf0bbbc2df4e"/>
-      <div>&nbsp;2. Enter Shikari</div>
-    </div>
+    <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb46f1cbdfdaadaf0bbbc2df4e">&nbsp;2. Enter Shikari</img>
     <br/>
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5ebd00c2ff422829437e6b5f1e0"/>
-      <div>&nbsp;3. Sleep Token</div>
-    </div>
+    <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5ebd00c2ff422829437e6b5f1e0">&nbsp;3. Sleep Token</img>
     <br/>
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb1aadbf9c8d0528d0e373763e"/>
-      <div>&nbsp;4. Halo</div>
-    </div>
+    <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb1aadbf9c8d0528d0e373763e">&nbsp;4. Halo</img>
     <br/>
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb69ca98dd3083f1082d740e44"/>
-      <div>&nbsp;5. Metallica</div>
-    </div>
+    <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb69ca98dd3083f1082d740e44">&nbsp;5. Metallica</img>
     <br/>
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb6823b6df396ecf49931e34a1"/>
-      <div>&nbsp;6. Disturbed</div>
-    </div>
+    <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb6823b6df396ecf49931e34a1">&nbsp;6. Disturbed</img>
     <br/>
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb6360a7b99211498fc60bc904"/>
-      <div>&nbsp;7. STARSET</div>
-    </div>
+    <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb6360a7b99211498fc60bc904">&nbsp;7. STARSET</img>
     <br/>
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb8a92672c058a150fd6aeb567"/>
-      <div>&nbsp;8. The Naked And Famous</div>
-    </div>
+    <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb8a92672c058a150fd6aeb567">&nbsp;8. The Naked And Famous</img>
     <br/>
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb60063d3451ade8f9fab397c2"/>
-      <div>&nbsp;9. System Of A Down</div>
-    </div>
+    <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb60063d3451ade8f9fab397c2">&nbsp;9. System Of A Down</img>
     <br/>
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb440fa32e555b94307d9f2e85"/>
-      <div>&nbsp;10. Biffy Clyro</div>
-    </div>
+    <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb440fa32e555b94307d9f2e85">&nbsp;10. Biffy Clyro</img>
     <br/>
   </div>
 
   <div style="width: 50%">
   <h4>My Top Tracks</h4>
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608"/>
-      <div>&nbsp;1. ohm.exe</div>
-    </div>
+    <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608">&nbsp;1. ohm.exe</img>
     <br/>
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608"/>
-      <div>&nbsp;2. obelisk.exe</div>
-    </div>
+    <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608">&nbsp;2. obelisk.exe</img>
     <br/>
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608"/>
-      <div>&nbsp;3. ra.exe</div>
-    </div>
+    <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608">&nbsp;3. ra.exe</img>
     <br/>
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608"/>
-      <div>&nbsp;4. rot.exe</div>
-    </div>
+    <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608">&nbsp;4. rot.exe</img>
     <br/>
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2733e592560ea791e455c24caf3"/>
-      <div>&nbsp;5. Addict</div>
-    </div>
+    <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2733e592560ea791e455c24caf3">&nbsp;5. Addict</img>
     <br/>
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b273c61e9b604dcfad5fc63ba78f"/>
-      <div>&nbsp;6. The Suburbs</div>
-    </div>
+    <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b273c61e9b604dcfad5fc63ba78f">&nbsp;6. The Suburbs</img>
     <br/>
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b273882265cd9bdded9ea9a153b9"/>
-      <div>&nbsp;7. Infinite Baths</div>
-    </div>
+    <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b273882265cd9bdded9ea9a153b9">&nbsp;7. Infinite Baths</img>
     <br/>
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608"/>
-      <div>&nbsp;8. animate.exe</div>
-    </div>
+    <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608">&nbsp;8. animate.exe</img>
     <br/>
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b273aa681b6e816f32b45400e853"/>
-      <div>&nbsp;9. Dante</div>
-    </div>
+    <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b273aa681b6e816f32b45400e853">&nbsp;9. Dante</img>
     <br/>
-    <div style='display: inline-flex;'>
-      <img style='border-radius: 10px' width='20px' height='20px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b273deeb72c504e2a0f474ca5e41"/>
-      <div>&nbsp;10. Palaces</div>
-    </div>
+    <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b273deeb72c504e2a0f474ca5e41">&nbsp;10. Palaces</img>
     <br/>
   </div>
 </div>
