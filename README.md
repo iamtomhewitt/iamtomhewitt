@@ -42,19 +42,19 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
   </tr>
   <tr>
     <td style="text-align:center;">
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;spotify">spotify</a>
-    </td>
-    <td style="text-align:center;">API for my spotify to power my website</td>
-    <td style="text-align:center;">Sat, 18 Apr 2026, 21:10</td>
-    <td style="text-align:center;">0.1.0</td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
       <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;website">website</a>
     </td>
     <td style="text-align:center;">My portfolio &#x2F; website</td>
-    <td style="text-align:center;">Sat, 18 Apr 2026, 12:01</td>
-    <td style="text-align:center;">2.1.0</td>
+    <td style="text-align:center;">Sat, 18 Apr 2026, 22:05</td>
+    <td style="text-align:center;">3.0.0</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
+      <a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;spotify">spotify</a>
+    </td>
+    <td style="text-align:center;">API for my spotify to power my website</td>
+    <td style="text-align:center;">Sat, 18 Apr 2026, 21:19</td>
+    <td style="text-align:center;">1.0.0</td>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -113,7 +113,7 @@ I'm currently listening to: <br/><img src="https:&#x2F;&#x2F;spotify-github-prof
 </div>
 
 <div align='center'>
-This README was last generated on: <b>Sat 18 Apr, 21:11</b>
+This README was last generated on: <b>Sun 19 Apr, 03:51</b>
 <br/>
 And is generated every <b>6 hours</b>!
 </div>
