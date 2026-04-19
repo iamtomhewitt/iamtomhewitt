@@ -2,7 +2,7 @@
 
 I'm currently a Principal Developer at William Hill, working on software that powers Self Service Betting Terminals and staff devices in shops throughout the UK. I'm big into Gitlab CI / automation and Slack based messaging for day to day developer tasks. I play drums and I'm a big Formula 1 fan!
 
-<div>This README was last generated on: <b>Sun 19 Apr, 20:06</b></div>
+<div>This README was last generated on: <b>Sun 19 Apr, 20:10</b></div>
 <div>And is automatically generated every <b>6 hours</b>!</div>
 <img src="https://github.com/iamtomhewitt/iamtomhewitt/actions/workflows/build.yml/badge.svg" />
 
@@ -88,39 +88,3 @@ I'm currently a Principal Developer at William Hill, working on software that po
     <td>5.5.1</td>
   </tr>
 </table>
-
-</div>
-
-<p/>
-<br/>
-
-<div align='center'>
-  <a href="https://www.youtube.com/user/tomhewittification/videos?view_as=subscriber">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/iamtomhewitt/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/thomas-hewitt-ab7724a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://iamtomhewitt.github.io/website/#/">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/3002268/tom">
-    <img src="https://img.shields.io/badge/reputation-2482-green?style=for-the-badge&logo=stackoverflow" />
-  </a>
-</div>
-
-<p/>
-
-<div align='center'>
-  <img src="https://github.com/iamtomhewitt/iamtomhewitt/actions/workflows/build.yml/badge.svg" />
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fiamtomhewitt%2Fiamtomhewitt&countColor=%23263759&style=flat-square&labelStyle=lower" />
-</div>
-
-<div align='center'>
-This README was last generated on: <b>Sun 19 Apr, 19:54</b>
-<br/>
-And is generated every <b>6 hours</b>!
-</div>
