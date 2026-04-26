@@ -22,7 +22,7 @@ const getLastUpdatedRepos = async () => {
       const tags = await fetch(`https://api.github.com/repos/iamtomhewitt/${repo.name}/tags`, { headers })
         .then((r) => r.json());
 
-      const latestTag = tags[0].name;
+      const latestTag = tags.length > 0 ? tags[0].name : '-';
 
       return {
         name: repo.name,
