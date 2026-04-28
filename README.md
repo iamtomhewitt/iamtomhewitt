@@ -2,7 +2,7 @@
 
 I'm currently a Principal Developer at William Hill, working on software that powers Self Service Betting Terminals and staff devices in shops throughout the UK. I'm big into Gitlab CI / automation and Slack based messaging for day to day developer tasks. I play drums and I'm a big Formula 1 fan!
 
-<div>This README was last generated on: <b>Mon 27 Apr, 20:25</b></div>
+<div>This README was last generated on: <b>Tue 28 Apr, 04:25</b></div>
 <div>And is automatically generated every <b>6 hours</b>!</div>
 <img src="https://github.com/iamtomhewitt/iamtomhewitt/actions/workflows/build.yml/badge.svg" />
 
@@ -36,7 +36,7 @@ I'm currently a Principal Developer at William Hill, working on software that po
 
 | Top Artists | Top Tracks |
 | --- | --- |
-| <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5ebd12b98d9c3fc0b3c33873810"/> Northlane | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608"/> ohm.exe |
+| <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5ebf9dc3a82b666097cf2f48031"/> Northlane | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608"/> ohm.exe |
 | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb46f1cbdfdaadaf0bbbc2df4e"/> Enter Shikari | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608"/> obelisk.exe |
 | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5ebd00c2ff422829437e6b5f1e0"/> Sleep Token | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608"/> ra.exe |
 | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb69ca98dd3083f1082d740e44"/> Metallica | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608"/> rot.exe |
