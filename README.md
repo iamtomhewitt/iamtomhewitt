@@ -2,7 +2,7 @@
 
 I'm currently a Principal Developer at William Hill, working on software that powers Self Service Betting Terminals and staff devices in shops throughout the UK. I'm big into Gitlab CI / automation and Slack based messaging for day to day developer tasks. I play drums and I'm a big Formula 1 fan!
 
-<div>This README was last generated on: <b>Mon 4 May, 09:31</b></div>
+<div>This README was last generated on: <b>Mon 4 May, 15:05</b></div>
 <div>And is automatically generated every <b>6 hours</b>!</div>
 <img src="https://github.com/iamtomhewitt/iamtomhewitt/actions/workflows/build.yml/badge.svg" />
 
@@ -60,8 +60,8 @@ I'm currently a Principal Developer at William Hill, working on software that po
   <tr>
     <td><a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;packages">packages</a></td>
     <td>Collection of packages to use in personal projects.</td>
-    <td>Sun, 3 May 2026, 22:06</td>
-    <td>1.0.3</td>
+    <td>Mon, 4 May 2026, 12:15</td>
+    <td>true</td>
   </tr>
   <tr>
     <td><a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard">home-dashboard</a></td>
