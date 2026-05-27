@@ -2,7 +2,7 @@
 
 I'm currently a Principal Developer at William Hill, working on software that powers Self Service Betting Terminals and staff devices in shops throughout the UK. I'm big into Gitlab CI / automation and Slack based messaging for day to day developer tasks. I play drums and I'm a big Formula 1 fan!
 
-<div>This README was last generated on: <b>Wed 27 May, 04:59</b></div>
+<div>This README was last generated on: <b>Wed 27 May, 10:53</b></div>
 <div>And is automatically generated every <b>6 hours</b>!</div>
 <img src="https://github.com/iamtomhewitt/iamtomhewitt/actions/workflows/build.yml/badge.svg" />
 
@@ -58,6 +58,12 @@ I'm currently a Principal Developer at William Hill, working on software that po
     <td style="font-weight: bold; width:20%;">Version</td>
   </tr>
   <tr>
+    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;packages">packages</a></td>
+    <td>Collection of packages to use in personal projects.</td>
+    <td>Wed, 27 May 2026, 10:09</td>
+    <td>3.1.1</td>
+  </tr>
+  <tr>
     <td><a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;iphone-wallpapers">iphone-wallpapers</a></td>
     <td>My take on https:&#x2F;&#x2F;github.com&#x2F;Ti-03&#x2F;remainders</td>
     <td>Tue, 26 May 2026, 20:29</td>
@@ -80,11 +86,5 @@ I'm currently a Principal Developer at William Hill, working on software that po
     <td>API for my spotify to power my website</td>
     <td>Sun, 10 May 2026, 14:10</td>
     <td>1.0.0</td>
-  </tr>
-  <tr>
-    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;packages">packages</a></td>
-    <td>Collection of packages to use in personal projects.</td>
-    <td>Sun, 10 May 2026, 14:00</td>
-    <td>3.1.0</td>
   </tr>
 </table>
