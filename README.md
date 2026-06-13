@@ -2,7 +2,7 @@
 
 I'm currently a Principal Developer at William Hill, working on software that powers Self Service Betting Terminals and staff devices in shops throughout the UK. I'm big into Gitlab CI / automation and Slack based messaging for day to day developer tasks. I play drums and I'm a big Formula 1 fan!
 
-<div>This README was last generated on: <b>Sat 13 Jun, 15:02</b></div>
+<div>This README was last generated on: <b>Sat 13 Jun, 15:23</b></div>
 <div>And is automatically generated every <b>6 hours</b>!</div>
 <img src="https://github.com/iamtomhewitt/iamtomhewitt/actions/workflows/build.yml/badge.svg" />
 
@@ -32,11 +32,7 @@ I'm currently a Principal Developer at William Hill, working on software that po
 
 ### Music
 
-#### I'm currently listening to
-
-<img src="https:&#x2F;&#x2F;spotify-github-profile.kittinanx.com&#x2F;api&#x2F;view?uid&#x3D;6uewucrtqgm5qi9s7vafweivn&amp;cover_image&#x3D;true&amp;theme&#x3D;spotify-embed"/>
-
-###### Powered by [kittinan](https://github.com/kittinan/spotify-github-profile)
+<img src="https:&#x2F;&#x2F;9smygdfh2g.execute-api.eu-west-1.amazonaws.com&#x2F;api&#x2F;now-playing-badge" style="width: 150px"/>
 
 | Top Artists | Top Tracks |
 | --- | --- |
@@ -65,8 +61,8 @@ I'm currently a Principal Developer at William Hill, working on software that po
   <tr>
     <td><a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;spotify">spotify</a></td>
     <td>API for my spotify to power my website</td>
-    <td>Fri, 12 Jun 2026, 13:26</td>
-    <td>1.0.0</td>
+    <td>Sat, 13 Jun 2026, 15:12</td>
+    <td>2.0.0</td>
   </tr>
   <tr>
     <td><a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;iphone-wallpapers">iphone-wallpapers</a></td>

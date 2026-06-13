@@ -1,10 +1,9 @@
 const fetch = require('node-fetch');
 
-const nowListening = `https://spotify-github-profile.kittinanx.com/api/view?uid=${process.env.SPOTIFY_UID}&cover_image=true&theme=spotify-embed`;
-const api = 'https://9smygdfh2g.execute-api.eu-west-1.amazonaws.com/api/top-items';
+const api = 'https://9smygdfh2g.execute-api.eu-west-1.amazonaws.com/api';
 
 const getData = async () => {
-  const r = await fetch(api);
+  const r = await fetch(`${api}/top-items`);
   const json = await r.json();
   return json.data;
 };
@@ -30,7 +29,7 @@ const topArtists = async (limit = 10) => {
 };
 
 module.exports = {
-  nowListening,
+  nowListening: `${api}/now-playing-badge`,
   topArtists,
   topTracks,
 };
