@@ -2,13 +2,15 @@ const fetch = require('node-fetch');
 const { toFriendlyDateWithYearAndNoTime } = require('./lib');
 
 const build = (data) => ({
+  date: toFriendlyDateWithYearAndNoTime(data.date) || data.date,
   name: data.name,
   score: data.score,
-  date: toFriendlyDateWithYearAndNoTime(data.date) || data.date
 });
 
 const getScores = async (url, mostRecent = false) => {
-  console.log('Getting scores', { mostRecent });
+  console.log('Getting scores', {
+    mostRecent,
+  });
   const scores = await fetch(url).then((r) => r.json());
   const parsedData = [];
 
@@ -30,20 +32,26 @@ const getScores = async (url, mostRecent = false) => {
 
         console.log('VALID\t', theDate, timestamp, new Date(timestamp));
         return true;
-      } catch (err) {
+      }
+      catch (err) {
         console.log('INVALID\t', theDate, err);
         return false;
       }
     };
 
     if (isValidDate(date)) {
-      parsedData.push({ name, score, date });
+      parsedData.push({
+        date,
+        name,
+        score,
+      });
     }
   });
 
   if (mostRecent) {
     parsedData.sort((a, b) => new Date(b.date) - new Date(a.date));
-  } else {
+  }
+  else {
     parsedData.sort((a, b) => b.score - a.score);
   }
 
@@ -53,8 +61,8 @@ const getScores = async (url, mostRecent = false) => {
       build(parsedData[1]),
       build(parsedData[2]),
       build(parsedData[3]),
-      build(parsedData[4])
-    ]
+      build(parsedData[4]),
+    ],
   });
 
   return {
@@ -63,42 +71,42 @@ const getScores = async (url, mostRecent = false) => {
       build(parsedData[1]),
       build(parsedData[2]),
       build(parsedData[3]),
-      build(parsedData[4])
-    ]
+      build(parsedData[4]),
+    ],
   };
 };
 
 const getGhostHunterScores = async () => {
   const { scores } = await getScores(process.env.GHOST_HUNTER_SCORES);
   return {
-    ghostHunterScores: scores
+    ghostHunterScores: scores,
   };
 };
 
 const getJetDashVrScores = async () => {
   const { scores } = await getScores(process.env.JET_DASH_VR_SCORES);
   return {
-    jetDashVrScores: scores
+    jetDashVrScores: scores,
   };
 };
 
 const getMostRecentGhostHunterScores = async () => {
   const { scores } = await getScores(process.env.GHOST_HUNTER_SCORES, true);
   return {
-    mostRecentGhostHunterScores: scores
+    mostRecentGhostHunterScores: scores,
   };
 };
 
 const getMostRecentJetDashVrScores = async () => {
   const { scores } = await getScores(process.env.JET_DASH_VR_SCORES, true);
   return {
-    mostRecentJetDashVrScores: scores
+    mostRecentJetDashVrScores: scores,
   };
 };
 
 module.exports = {
   getGhostHunterScores,
   getJetDashVrScores,
+  getMostRecentGhostHunterScores,
   getMostRecentJetDashVrScores,
-  getMostRecentGhostHunterScores
 };

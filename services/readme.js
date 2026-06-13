@@ -12,4 +12,6 @@ const generateReadMe = async (DATA) => {
   });
 };
 
-module.exports = { generateReadMe };
+module.exports = {
+  generateReadMe,
+};

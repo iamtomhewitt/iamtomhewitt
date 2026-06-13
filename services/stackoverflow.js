@@ -10,4 +10,6 @@ const getReputation = async () => {
   return reputation;
 };
 
-module.exports = { getReputation };
+module.exports = {
+  getReputation,
+};

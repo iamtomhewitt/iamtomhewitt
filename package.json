@@ -3,21 +3,17 @@
 	"version": "1.0.0",
 	"description": "My Github README",
 	"scripts": {
-		"lint": "eslint .",
-		"lint-fix": "eslint . --fix",
-		"release": "github-releaser",
+		"lint": "iamtomhewitt-linter --sourceFolder=./ --type=javascript",
+		"lint-fix": "iamtomhewitt-linter --sourceFolder=./ --type=javascript --fix",
 		"start": "node index.js"
-	},
-	"repository": {
-		"apiUrl": "https://api.github.com/repos/iamtomhewitt/iamtomhewitt"
 	},
 	"dependencies": {
 		"dotenv": "17.4.0",
-		"github-releaser": "1.6.1",
 		"mustache": "4.2.0",
 		"node-fetch": "2.6.1"
 	},
 	"devDependencies": {
+		"@iamtomhewitt/linter": "3.1.2",
 		"eslint": "8.53.0",
 		"eslint-config-airbnb-base": "15.0.0",
 		"eslint-plugin-import": "2.29.0"

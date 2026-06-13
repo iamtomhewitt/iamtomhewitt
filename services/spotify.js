@@ -15,7 +15,7 @@ const topTracks = async (limit = 10) => {
     .slice(0, limit)
     .map((track) => ({
       image: track.album.images[0].url,
-      name: track.name
+      name: track.name,
     }));
 };
 
@@ -25,12 +25,12 @@ const topArtists = async (limit = 10) => {
     .slice(0, limit)
     .map((artist) => ({
       image: artist.images[0].url,
-      name: artist.name
+      name: artist.name,
     }));
 };
 
 module.exports = {
   nowListening,
   topArtists,
-  topTracks
+  topTracks,
 };

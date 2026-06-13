@@ -21,24 +21,35 @@ const { toFriendlyDate } = require('./services/lib');
     'https://shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54',
     'https://shields.io/badge/React-212121?logo=react&logoColor=61DBFB',
     'https://shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff',
-    'https://shields.io/badge/TypeScript-3074BF?logo=typescript&logoColor=fff'
-  ].map((b) => ({ url: b }));
+    'https://shields.io/badge/TypeScript-3074BF?logo=typescript&logoColor=fff',
+  ].map((b) => ({
+    url: b,
+  }));
 
-  const socials = [
-    { badgeUrl: 'https://shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff', url: 'https://www.instagram.com/iamtomhewitt/' },
-    { badgeUrl: 'https://img.shields.io/badge/LinkedIn-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K', url: 'https://www.linkedin.com/in/thomas-hewitt-ab7724a8/' },
-    { badgeUrl: `https://shields.io/badge/Stack%20Overflow-${await getReputation()}-F58025?logo=stackoverflow&logoColor=fff`, url: 'https://stackoverflow.com/users/3002268/tom' },
-    { badgeUrl: 'https://shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=fff', url: 'https://www.youtube.com/@iamtomhewitt' }
-  ];
+  const socials = [{
+    badgeUrl: 'https://shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff',
+    url: 'https://www.instagram.com/iamtomhewitt/',
+  }, {
+    badgeUrl: 'https://img.shields.io/badge/LinkedIn-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K',
+    url: 'https://www.linkedin.com/in/thomas-hewitt-ab7724a8/',
+  }, {
+    badgeUrl: `https://shields.io/badge/Stack%20Overflow-${await getReputation()}-F58025?logo=stackoverflow&logoColor=fff`,
+    url: 'https://stackoverflow.com/users/3002268/tom',
+  }, {
+    badgeUrl: 'https://shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=fff',
+    url: 'https://www.youtube.com/@iamtomhewitt',
+  }];
 
   const spotifyTableSize = 10;
   const spotifyTopArtists = await spotify.topArtists(spotifyTableSize);
   const spotifyTopTracks = await spotify.topTracks(spotifyTableSize);
-  const spotifyTopItems = Array.from({ length: spotifyTableSize }, (_, i) => ({
-    artistName: spotifyTopArtists[i].name,
+  const spotifyTopItems = Array.from({
+    length: spotifyTableSize,
+  }, (_, i) => ({
     artistImage: spotifyTopArtists[i].image,
+    artistName: spotifyTopArtists[i].name,
+    trackImage: spotifyTopTracks[i].image,
     trackName: spotifyTopTracks[i].name,
-    trackImage: spotifyTopTracks[i].image
   }));
 
   await generateReadMe({
@@ -47,6 +58,6 @@ const { toFriendlyDate } = require('./services/lib');
     skills,
     socials,
     spotifyNowListening: spotify.nowListening,
-    spotifyTopItems
+    spotifyTopItems,
   });
 })();
