@@ -2,7 +2,7 @@
 
 I'm currently a Principal Developer at William Hill, working on software that powers Self Service Betting Terminals and staff devices in shops throughout the UK. I'm big into Gitlab CI / automation and Slack based messaging for day to day developer tasks. I play drums and I'm a big Formula 1 fan!
 
-<div>This README was last generated on: <b>Mon 17 Aug, 19:39</b></div>
+<div>This README was last generated on: <b>Tue 18 Aug, 02:16</b></div>
 <div>And is automatically generated every <b>6 hours</b>!</div>
 <img src="https://github.com/iamtomhewitt/iamtomhewitt/actions/workflows/build.yml/badge.svg" />
 
@@ -42,7 +42,7 @@ I'm currently a Principal Developer at William Hill, working on software that po
 | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5ebf24b13888650d71e050092b9"/> Halo | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b273d870b26d1826f73a30cbabce"/> The Flick Of A Switch I. |
 | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2733e592560ea791e455c24caf3"/> Destiny Potato | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b273fe36cff32b05159d29dc553e"/> Dioma - Demo |
 | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb440fa32e555b94307d9f2e85"/> Biffy Clyro | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2733e592560ea791e455c24caf3"/> U.Y.M. |
-| <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb60063d3451ade8f9fab397c2"/> System Of A Down | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608"/> rot.exe |
+| <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb60063d3451ade8f9fab397c2"/> System Of A Down | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b27315985217754fd8542485b2aa"/> Super Platinum (feat. Erick The Architect) |
 
 ###### Powered by my [Spotify API](https://github.com/iamtomhewitt/spotify)
 
