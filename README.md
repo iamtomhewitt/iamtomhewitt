@@ -2,7 +2,7 @@
 
 I'm currently a Principal Developer at William Hill, working on software that powers Self Service Betting Terminals and staff devices in shops throughout the UK. I'm big into Gitlab CI / automation and Slack based messaging for day to day developer tasks. I play drums and I'm a big Formula 1 fan!
 
-<div>This README was last generated on: <b>Thu 29 Oct, 12:27</b></div>
+<div>This README was last generated on: <b>Thu 29 Oct, 22:30</b></div>
 <div>And is automatically generated every <b>6 hours</b>!</div>
 <img src="https://github.com/iamtomhewitt/iamtomhewitt/actions/workflows/build.yml/badge.svg" />
 
@@ -39,10 +39,10 @@ I'm currently a Principal Developer at William Hill, working on software that po
 | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb6823b6df396ecf49931e34a1"/> Disturbed | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2733e592560ea791e455c24caf3"/> U.Y.M. |
 | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5ebd00c2ff422829437e6b5f1e0"/> Sleep Token | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b27315985217754fd8542485b2aa"/> Super Platinum (feat. Erick The Architect) |
 | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb3c045488e31c28f5f3516079"/> STARSET | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b273d870b26d1826f73a30cbabce"/> The Flick Of A Switch I. |
-| <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5ebf24b13888650d71e050092b9"/> Halo | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608"/> obelisk.exe |
-| <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb8a92672c058a150fd6aeb567"/> The Naked And Famous | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2737657f9028ea8bb2c18dca99f"/> Midnight Sun |
-| <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb60063d3451ade8f9fab397c2"/> System Of A Down | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2733e592560ea791e455c24caf3"/> Addict |
-| <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eba00b11c129b27a88fc72f36b"/> Eminem | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608"/> ohm.exe |
+| <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5ebf24b13888650d71e050092b9"/> Halo | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2737657f9028ea8bb2c18dca99f"/> Midnight Sun |
+| <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb8a92672c058a150fd6aeb567"/> The Naked And Famous | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608"/> obelisk.exe |
+| <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb60063d3451ade8f9fab397c2"/> System Of A Down | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b273aa681b6e816f32b45400e853"/> Dante |
+| <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eba00b11c129b27a88fc72f36b"/> Eminem | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2733e592560ea791e455c24caf3"/> Addict |
 
 ###### Powered by my [Spotify API](https://github.com/iamtomhewitt/spotify)
 
@@ -55,16 +55,16 @@ I'm currently a Principal Developer at William Hill, working on software that po
     <td style="font-weight: bold; width:20%;">Version</td>
   </tr>
   <tr>
+    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;iphone-wallpapers">iphone-wallpapers</a></td>
+    <td>My take on https:&#x2F;&#x2F;github.com&#x2F;Ti-03&#x2F;remainders</td>
+    <td>Thu, 29 Oct 2026, 22:24</td>
+    <td>3.0.0</td>
+  </tr>
+  <tr>
     <td><a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;home-dashboard">home-dashboard</a></td>
     <td>A dashboard with useful information to display in my house. It runs on an Android tablet 24&#x2F;7, stuck to my fridge using magnets.</td>
     <td>Mon, 7 Sept 2026, 09:03</td>
     <td>8.0.2</td>
-  </tr>
-  <tr>
-    <td><a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;iphone-wallpapers">iphone-wallpapers</a></td>
-    <td>My take on https:&#x2F;&#x2F;github.com&#x2F;Ti-03&#x2F;remainders</td>
-    <td>Sun, 12 Jul 2026, 20:47</td>
-    <td>2.2.0</td>
   </tr>
   <tr>
     <td><a href="https:&#x2F;&#x2F;github.com&#x2F;iamtomhewitt&#x2F;spotify">spotify</a></td>
