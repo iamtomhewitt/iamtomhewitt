@@ -2,7 +2,7 @@
 
 I'm currently a Principal Developer at William Hill, working on software that powers Self Service Betting Terminals and staff devices in shops throughout the UK. I'm big into Gitlab CI / automation and Slack based messaging for day to day developer tasks. I play drums and I'm a big Formula 1 fan!
 
-<div>This README was last generated on: <b>Fri 20 Nov, 19:41</b></div>
+<div>This README was last generated on: <b>Sat 21 Nov, 05:59</b></div>
 <div>And is automatically generated every <b>6 hours</b>!</div>
 <img src="https://github.com/iamtomhewitt/iamtomhewitt/actions/workflows/build.yml/badge.svg" />
 
@@ -42,7 +42,7 @@ I'm currently a Principal Developer at William Hill, working on software that po
 | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb8a92672c058a150fd6aeb567"/> The Naked And Famous | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608"/> obelisk.exe |
 | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb3c045488e31c28f5f3516079"/> STARSET | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b273aa681b6e816f32b45400e853"/> Dante |
 | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eb60063d3451ade8f9fab397c2"/> System Of A Down | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b2730fdf55a32879e0bc35f9a608"/> ohm.exe |
-| <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eba00b11c129b27a88fc72f36b"/> Eminem | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b273cf8a533756836c76fb1704cb"/> Out Of My System |
+| <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab6761610000e5eba00b11c129b27a88fc72f36b"/> Eminem | <img width='16px' height='16px' src="https:&#x2F;&#x2F;i.scdn.co&#x2F;image&#x2F;ab67616d0000b273950b8ca9bd496084339acc57"/> Echo Chamber |
 
 ###### Powered by my [Spotify API](https://github.com/iamtomhewitt/spotify)
 
